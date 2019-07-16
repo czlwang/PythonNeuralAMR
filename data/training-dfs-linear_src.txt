@@ -1,0 +1,1274 @@
+recommend :arg1 ( and :op1 ( judge :arg0 i :arg3 do )  :op2 ( judge :polarity - :arg0 i :arg3 word )  )
+order :arg2 it
+say :arg0 ( gentleman :mod old )  :arg1 ( come :arg1 he :arg3 amr-unknown )  :arg2 he
+and :op2 ( add :arg0 i :arg1 ( possible :arg1 ( cause :arg0 anniversary :arg1 it )  :mode interrogative )  :manner ( hesitate :arg0 i :degree some )  )
+bear :arg0 ( and :op1 ( walk :location ( under :op1 star )  )  :op2 ( sing :arg0 pulley )  :op3 ( effort :arg0 ( arm :part-of i )  )  )  :arg1 ( sweet :arg1 it )
+angry :domain he :degree very :arg1-of real
+insist :arg0 king :arg1 ( respect :arg1 ( authority :poss king )  )  :mod fundamental
+hide :arg0 ( home :poss i )  :arg1 secret :location ( deep :arg1 ( heart :part-of home )  )
+and :op1 ( ask :arg0 ( prince :mod little )  :arg1 ( you :mod amr-unknown )  )  :op2 ( add :arg0 prince :arg1 ( look :arg0 prince :arg1 you :arg2 ( pretty :degree very )  )  )
+smile :arg0 ( prince :mod little )
+content :arg0 ( see :arg0 companion :arg1 ( live :arg0 i )  )  :arg1 ( companion :arg0-of ( meet :arg1 i :time ( return :arg1 i )  )  )  :mod well
+murmur :arg0 ( prince :mod little :arg1-of ( abash :arg1-of complete :time now )  )  :arg1 ( possible :polarity - :time anymore )
+regret :arg0 he :arg1 ( lose :arg0 he :arg1 sunset )
+and :op1 ( turn :arg1 planet :arg1-of complete :time now :frequency ( rate-entity :arg3 ( temporal-quantity temporal-quantity_num_0 :unit minute )  )  )  :op2 ( have :polarity - :arg0 i :arg1 ( temporal-quantity temporal-quantity_num_1 :unit second :purpose repose )  :time no-longer )  :time then
+man :mod little
+have :arg0 ( you :mod alone )  :arg1 star :arg1-of ( resemble :polarity - :arg2 ( have :arg0 ( anyone :mod else )  :arg1 star )  )
+no :mod ( oh :mode expressive )
+go-on :arg0 ( prince :mod little )  :arg1 ( explain :arg0 prince :arg1 ( cause :arg0 ( small :domain ( planet :poss you )  :degree so )  :arg1 ( take :arg0 ( stride :quant num_0 )  :arg1 you :arg2 ( around :op1 planet :degree all-the-way )  )  )  )
+say :arg0 he :arg1 goodbye
+say :arg0 businessman :arg1 ( enough :domain that )
+chapter :mod num_0
+contrast :arg2 ( possible :polarity - :arg1 ( buy :arg0 one :arg1 friendship :location ( shop :location anywhere )  :arg0-of ( cause :arg1 ( have-rel-role :polarity - :arg0 person :arg1 man :arg2 friend :mod anymore )  )  )  )
+small :domain ( it :mod all )  :degree so
+reply :arg0 ( prince :mod little )  :arg1 ( like :polarity - :arg0 prince :arg1 ( condemn :arg0 prince :arg1 anyone :arg3 ( die :arg1 anyone )  )  )
+toss :arg0 he :arg1 ( curl :poss he :mod golden )  :location breeze
+love :arg0 i :arg1 ( sleep :arg0 i :mod ( thing :quant num_0 )  )  :time live
+or :op1 ( hammer :poss i )  :op2 ( bolt :poss i )  :op3 ( thirst :arg0 i )  :op4 ( die :arg1 i )  :time ( moment :mod amr-unknown )
+multi-sentence :snt1 ( and :op1 ( say :arg0 he :arg1 ( busy :arg1 he :arg2 ( matter :arg0-of ( have :arg1 consequence )  )  )  :time ( day :mod all )  :frequency over-and-over :manner ( resemble :arg2 you :mod just )  :arg0-of cause )  )  :snt2 ( and :op1 ( make :arg0 that :arg1 ( swell :arg0 that :arg1 he :manner ( pride :arg0 he :arg2 that )  )  )  )
+sell :arg0 ( person :arg0-of merchandise :domain this )  :arg1 ( pill :arg1-of invent :purpose ( quench :arg0 pill :arg1 thirst )  )
+and :op2 ( light :arg0 he :arg1 ( lamp :poss he )  :mod again )
+say :arg0 ( prince :mod little )  :arg1 ( interest :arg0 that :arg1 prince :degree very )
+ask :arg0 ( prince :mod little )  :arg1 ( amr-unknown :time then )
+own :arg0 you :arg1 star :mode interrogative
+say :arg0 voice :arg1 ( i :location ( here :location ( under :op1 ( tree :mod apple )  )  :mod right )  )
+answer :arg0 echo :arg1 ( morning :arg1-of good )
+chapter :mod num_0
+talk :arg0 you :arg2 snake :purpose amr-unknown
+have :arg0 i :arg1 ( flower :arg0-of ( speak :ord ( ordinal-entity ordinal-entity_num_0 )  :time always )  )  :location ( planet :poss i )
+possible :arg1 ( and :op1 ( pluck :arg0 i :arg1 ( flower :mod that )  )  :op2 ( take-away :arg0 i :arg1 flower :accompanier i )  )  :condition ( own :arg0 i :arg1 flower )
+and :op2 ( flush :arg1 he )
+and :op2 ( laugh :arg0 he :mod again )
+say :arg0 he :arg1 ( do :arg0 person :arg1 amr-unknown :location there )  :arg2 ( person :arg0-of tipple :arg1-of ( find :arg0 he )  :arg1-of ( settle-down :manner silent :location ( before :op1 ( and :op1 ( bottle :arg1-of empty :arg1-of collect )  :op2 ( bottle :mod full :arg1-of collect )  )  )  )  )
+desert :domain this
+reply :arg0 geographer :arg2 location_name_0
+resemble :arg1 it :arg2 ( spring :source-of ( water :arg1-of fresh )  :location desert )  :beneficiary i
+stand :arg1 ( he :arg1-of ( bewilder :degree all )  :arg0-of ( hold :arg1 ( globe :consist-of glass :arg1-of ( arrest :location midair )  )  )  )  :arg2 there
+come :arg1 ( prince :mod little )  :arg2 ( doubt :arg0 prince :arg1 she )  :time soon :arg1-of cause :concession ( will :arg1-of good :mod all :arg1-of ( separate :arg2 ( love :arg0 prince )  :arg1-of ( possible :polarity - )  )  )
+and :op1 ( hear :arg0 i :arg1 ( sing :arg0 pulley )  :mod still )  :op2 ( possible :arg1 ( see :arg0 i :arg1 ( shimmer :arg1 sunlight :location ( water :arg1-of ( tremble :mod still )  )  )  )  )
+resemble :arg1 ( it :arg1-of ( good :degree more )  )  :arg2 that
+contrast :arg1 ( own :polarity - :arg0 king )  :arg2 ( reign :arg0 king )
+and :op2 ( speak :arg0 he :arg1 ( beautiful :arg1 star :arg1-of ( cause :arg0 ( flower :arg1-of ( see :arg1-of ( possible :polarity - )  )  )  )  )  :time ( after :op1 ( silent :duration little )  )  :mod again )
+and :op2 ( cause :arg0 ( beautiful :arg1 it )  :arg1 ( useful :arg1 it :degree truly )  )
+contrast :arg2 ( waste :mode imperative :polarity - :arg0 you :arg1 ( time :poss you )  :arg2 ( task :mod extra :mod this )  )
+say :arg0 ( prince :mod little )  :arg1 ( reason :arg0 ( man :mod this )  :arg1-of ( resemble :arg2 ( reason :arg0 ( person :arg0-of tipple :mod poor :poss prince )  )  :degree little )  )  :arg2 prince
+and :op2 ( do :arg0 you :arg1 amr-unknown :arg3 ( star :mod this )  )
+opine :arg0 scholar :arg1 ( problem :domain they )
+say :arg0 ( person :arg0-of ( light :arg1 lamp )  )  :arg1 ( change :arg1 order :polarity - )
+marvel :arg0 ( prince :mod little )  :arg1 ( power :degree such )
+say :arg0 ( prince :mod little )  :arg1 ( go :mode imperative :arg0 you :arg1 away :time now )
+equal :arg1 num_0 :arg2 ( sum-of :op1 num_1 :op2 num_2 )
+ask :mode imperative :arg0 you :arg1 ( or :mode interrogative :op1 yes :op2 no )  :arg2 you
+say :arg0 ( prince :mod little )  :arg1 ( and :op1 ( oh :mode expressive )  :op2 ( interest :arg0 ( location :location-of ( live :arg0 prince )  )  :arg1 prince :degree very :polarity - )  )
+and :op1 ( have :polarity - :mode interrogative :arg0 ( try :arg1 ( understand :arg1 ( thing :arg0-of ( cause :arg1 ( endure :arg1 flower :arg2 ( trouble :purpose ( grow :arg0 flower :arg1 ( thorn :arg1-of ( use :polarity - :arg0 flower :time ever )  )  )  :quant ( much :degree so )  )  )  )  )  )  )  :arg1 consequence )
+comfort :arg1 ( sorrow :arg0 i )  :time now :degree little
+and :op1 ( question :arg0 he :arg2 they )  :op2 ( note :arg0 he :arg1 ( thing :arg1-of recall :source ( travel :arg0 they )  )  )
+ask :arg0 ( prince :mod little )  :arg1 ( planet :arg4-of ( come :arg1 prince :direction down )  :domain amr-unknown )
+begin :arg0 i :arg1 ( happy :arg1 i )  :condition ( come :arg1 you :time ( date-entity :time 4:00 dayperiod_date-entity_0 )  :arg0-of exemplify )  :time ( date-entity :time 3:00 )
+send :arg0 i :arg1 ( train :arg0-of ( carry :arg1 they )  )  :arg5 ( and :op1 ( right :time now )  :op2 ( left :time now )  )
+ah :arg1 ( interest :arg0 that )
+continue :arg0 he :arg1 ( own :arg0 he :arg1 ( flower :arg1-of ( water :arg0 he :frequency ( rate-entity :arg3 ( temporal-quantity temporal-quantity_num_0 :unit day )  )  )  )  )  :arg2 businessman :arg3 ( converse :arg0 he :arg2 businessman )
+ask :arg0 i :arg1 ( forgive :arg0 you :arg1 i )  :arg2 you
+reassure :arg0 they :arg1 they :arg2-of ( good :arg1 they :degree most :compared-to ( possible :arg1 ( reassure :arg0 they :arg1 they )  )  )
+cause :arg0 amr-unknown :arg1 ( put-out :arg0 you :arg1 ( lamp :poss you )  :mod just )
+and :op1 ( reply :arg0 king :arg2 ( hum :mode expressive )  )  :op2 ( consult :arg0 king :arg1 ( almanac :arg1-of bulky )  :time ( before :op1 ( say :arg0 king :arg1 ( anything :mod else )  )  )  )
+disturb :arg0 ( attack :arg0 rheumatism :arg1 i )  :arg1 i :time ( before :op1 now :quant ( temporal-quantity temporal-quantity_num_0 :unit year )  )  :domain ( disturb :ord ( ordinal-entity ordinal-entity_num_1 )  )
+honest :arg0 i :arg1 ( thing :arg1-of ( tell :arg0 i :arg2 you :topic ( person :arg0-of ( light :arg1 lamp )  )  )  )  :degree ( altogether :polarity - )
+certain :domain it
+say :arg0 he :arg1 ( possible :arg1 ( and :op1 ( put :arg0 he :arg1 ( scarf :consist-of silk )  :arg2 ( around :op1 ( neck :part-of he )  )  )  :op2 ( take-away :arg0 he :arg1 scarf :accompanier he )  )  :condition ( own :arg0 he :arg1 scarf )  )
+cause :arg0 ( and :op1 pulley :op2 rope )  :arg1 ( resemble :arg1 ( thing :arg1-of ( give :arg0 you :arg2 i :purpose ( drink :arg0 i )  )  )  :arg2 music )
+thing :domain they :arg0-of ( make :arg1 ( and :op1 ( differ :arg1 ( day :mod one )  :arg2 ( day :mod other )  )  :op2 ( differ :arg1 ( hour :mod one )  :arg2 ( hour :mod other )  )  )  )
+sigh :arg0 fox :arg1 ( perfect :arg1 nothing )
+know :arg0 i :arg1 ( possible :polarity - :arg1 ( crossexamine :arg0 i :arg1 he )  )  :degree ( well :degree very )
+see :arg0 ( man :arg1-of intoxicate )  :arg2 double :arg0-of ( cause :arg1 thing )
+chapter :mod num_0
+begin :arg0 he :arg1 ( fear :arg0 he :arg1 ( come :arg1 he :arg4 ( planet :arg2-of wrong )  )  )  :time ( flash :arg1 ( coil :mod ( gold :mod ( color :poss ( light :arg0 moon )  )  )  )  :path ( across :op1 sand )  )
+become :arg1 you :arg2 ( responsible :arg0 you :arg1 ( thing :arg1-of ( tame :arg0 you )  )  :extent forever )
+have-concession :arg1 ( reassure :arg1 i :polarity - )
+lonely :domain ( be-located-at :arg2 desert )  :degree little
+right :arg1 i :arg2 ( require :arg0 i :arg1 ( obey :arg1 i )  )  :arg1-of ( cause :arg0 ( reasonable :arg1 ( thing :arg2-of order )  )  )
+and :op1 ( put-out :arg0 i :arg1 lamp :time ( date-entity dayperiod_date-entity_0 )  )  :op2 ( light :arg0 i :arg1 lamp :time ( date-entity dayperiod_date-entity_1 )  :mod again )
+heavy :domain it :degree too :compared-to you
+yawn :mode imperative :arg0 you :mod again
+and :op1 ( adore :arg0 they :arg1 figure )  :op2 ( please :arg1 they :arg2 that )
+remember :arg0 i :arg1 fox
+need :arg0 i :arg1 ( live :arg0 i :location ( planet :mod this )  )  :polarity -
+cold :degree very :location ( live :arg0 you )
+say :arg0 rose :arg1 ( rose :domain rose )
+possible :polarity - :arg1 ( carry :arg0 i :arg1 ( body :mod this )  :arg3 i )
+seem :arg1 ( carry :arg0 i :arg1 ( treasure :mod ( fragile :degree very )  )  )  :arg2 i
+go :arg0 he :arg1 ( come :arg1 he :arg4 ( near :arg1 he :arg2 here :degree very )  :direction down )  :time then :time ( after :op1 silent )
+resemble :arg1 it :arg2 water :mod just
+mean :arg1 tame :arg2 amr-unknown
+time :polarity - :purpose ( dream :manner idle )  :duration ( live :arg0 i )
+make :arg0 that :arg1 ( spectacle :mod splendid )  :condition ( see :arg1 that :manner ( distance :arg2 that :degree slight )  )
+answer :arg0 he :arg2 ( contrast :arg1 ( have :arg0 ( man :mod all )  :arg1 star )  :arg2 ( thing :arg1-of ( same :polarity - :arg2 star :arg3 ( person :arg1-of differ )  )  )  )
+begin :arg0 she :arg1 ( torment :arg0 she :arg1 he :arg2 ( vanity :poss she :arg2-of ( deal :arg0 he :mod ( difficult :degree little )  :condition ( know :arg1 truth )  )  )  )  :mod too :arg1-of ( quick :degree very )
+mean :arg1 tame :arg2 amr-unknown
+say :arg0 ( switchman :mod railway )  :arg1 ( morning :arg1-of good )
+demand :arg0 king :arg1 ( wrong :arg1 ( amr-unknown :arg1-of ( include :arg2 we )  )  :condition ( and :op1 ( order :arg0 king :arg1 ( person :arg0-of ( have-org-role :arg2 general )  )  :arg2 ( or :op1 ( fly :arg1 person :destination another :source ( thing :arg1-of ( flower :quant num_0 )  )  :manner butterfly )  :op2 ( write :arg0 person :arg1 ( drama :mod tragedy )  )  :op3 ( change :arg0 person :arg1 person :arg2 ( bird :mod sea )  )  )  )  :op2 ( carry-out :polarity - :arg0 person :arg1 ( thing :arg2-of order :arg1-of ( receive :arg0 person :arg2 king )  )  )  )  )
+contrast :arg2 ( far :direction away :domain it :degree so )
+wise :domain you :condition ( succeed :arg0 you :arg1 ( judge :arg0 you :arg1 you :arg1-of right )  )  :arg1-of true
+reply :arg0 ( prince :mod little )  :polarity -
+say :arg0 ( prince :mod little )  :arg1 ( thirst :arg0 i :arg1 ( water :mod this )  )
+wonder :arg0 ( prince :mod little )
+and :op1 ( follow :polarity - :arg0 he :arg1 ( reason :arg0 i )  )  :op2 ( answer :arg0 he :arg1 i :arg2 ( good :arg1 ( have-rel-role :arg1 one :arg2 friend )  :concession ( even-if :op1 ( die :arg1 one :time about-to )  )  )  )
+and :op1 ( look :arg0 ( prince :mod little )  :arg1 they )  :op2 ( laugh :arg0 prince :time ( say :arg0 prince :arg1 ( look :arg0 ( baobab :poss you )  :arg1 cabbage :degree little )  )  )
+see :arg0 ( i :location ( relative-position :quant distant )  )  :arg1 ( sit :arg1 ( prince :mod little :poss i :arg0-of ( dangle :arg1 ( foot :part-of prince )  )  )  :arg2 ( wall :location ( position :op1 ( on :direction top )  )  )  )  :time ( return :arg1 i :arg3 ( work :arg0 i )  :time ( date-entity dayperiod_date-entity_0 mod_date-entity_1 )  )
+say :arg0 flower :arg1 ( morning :arg1-of good )
+certain
+feel :arg0 i :arg1 ( heart :part-of he :arg1-of ( beat :arg1-of ( resemble :arg2 ( heart :part-of ( bird :arg1-of die :arg1-of ( shoot :arg2 ( rifle :poss someone )  )  )  )  )  )  )
+and :op1 ( make :arg0 ( thirst :arg0 i )  :arg1 ( feverish :domain i :degree little )  )  :op2 ( look :arg0 i :arg1 they :arg1-of ( resemble :arg2 ( dream :arg0 i )  )  )
+equal :arg1 ( sum-of :op1 num_0 :op2 num_1 )  :arg2 num_2
+thing :domain that :mod ( difficult :degree most :compared-to all )
+or :op1 ( see :polarity - :arg0 i :arg1 anyone )  :op2 ( hear :polarity - :arg0 i :arg1 anyone )  :time ever
+sit-down :arg1 ( i :degree too )  :arg1-of ( cause :arg0 ( possible :polarity - :arg1 ( stand-up :arg1 i :arg1-of ( long :mod any )  )  )  )
+send :arg0 he :arg1 ( or :op1 flower :op2 star )  :arg2 ( sleep :arg0 or )  :time ( put-out :arg0 he :arg1 ( lamp :poss he )  )
+contrast :arg2 ( say :arg0 he :arg1 ( possible :arg1 ( find :arg1 ( star :poss he )  :location ( above :op1 ( place :location earth :arg4-of ( come :time ( before :op1 now :quant ( temporal-quantity temporal-quantity_num_0 :unit year )  )  )  )  :mod right )  )  :time ( date-entity dayperiod_date-entity_0 mod_date-entity_1 )  :duration year :mod then )  :arg2 i )
+possible :arg1 ( go :arg0 you :arg4 home :direction back )  :time now
+say :arg0 i :arg2 ( prince :mod little )
+responsible :arg0 i :arg2 she
+resemble :arg1 it :arg2 ( bell :quant num_0 :mod little )
+appear :arg1 fox :time then
+ask :arg0 ( prince :mod little )  :arg1 ( amr-unknown :quant num_0 )
+sad :polarity - :arg0 ( shell :mod old )
+and :op2 ( laugh :arg0 he :mod again )
+have-purpose :arg1 it :arg2 ( raise :arg1 it :subevent-of ( salute :time ( acclaim :arg0 person :arg1 i )  :instrument it )  )
+resemble :arg1 it :arg2 flower :mod just
+and :op1 ( open :arg0 you :arg1 ( window :poss you )  :time sometimes :purpose ( pleasure :mod that )  )  :op2 ( astonish :arg0 ( see :arg0 person :arg1 ( laugh :arg0 you :time ( look :arg1 sky :direction up )  )  )  :arg1 ( person :arg0-of ( have-rel-role :arg1 you :arg2 friend )  )  :manner proper )
+poetry :domain it :degree rather
+say :arg0 ( prince :mod little :arg1-of ( become :arg2 ( serious :arg1 prince )  :arg1-of quick :time then )  )  :arg1 ( come :mode imperative :polarity - :arg1 you :time ( date-entity dayperiod_date-entity_0 mod_date-entity_1 )  )
+cry-out :arg0 he :polarity -
+cause :arg0 ( object :consist-of gold :mod little )  :arg1 ( dream :arg0 ( man :mod lazy )  :manner idle )
+happy :polarity - :arg1 i :mod so
+contrast :arg2 ( sit :arg1 you :arg2 ( close :arg1 you :arg2 i :degree ( more :mod little )  :frequency ( rate-entity :arg3 ( temporal-quantity temporal-quantity_num_0 :unit day )  )  )  )
+and :op2 ( lead :arg0 ( road :mod all )  :arg4 ( abode :poss man )  )
+go-on :arg0 king :arg1 ( obligate :arg1 one :arg2 ( require :arg0 one :arg1 ( duty :arg1-of ( perform :arg0 one :arg1-of possible )  )  :arg2 ( one :mod each )  )  )
+exercise :arg0 i :degree ( enough :polarity - )
+contrast :arg2 ( receive :arg0 he :arg1 ( person :arg0-of explore )  :location ( study :poss he )  )
+contrast :arg1 ( wish :polarity - :arg0 i :arg1 ( harm :arg1 you :mod ( sort :mod any )  )  :arg2 you :time ever )  :arg2 ( want :arg0 you :arg1 ( tame :arg0 i :arg1 you )  )
+possible :arg1 ( guess :arg0 he :arg1 danger )  :polarity -
+powerful :arg1 you :degree ( very :polarity - )
+and :mode expressive :op2 ( prince :mod little :mod dear )
+and :op1 ( sit-down :arg1 ( prince :mod little )  :arg2 stone :direction down )  :op2 ( raise :arg0 prince :arg1 ( eye :part-of prince )  :direction sky )
+say :arg0 switchman :arg1 ( lucky :domain they )
+tire :arg0 ( prince :mod little )  :arg1 ( monotony :poss game )  :time ( after :op1 ( exercise :duration ( temporal-quantity temporal-quantity_num_0 :unit minute )  )  )
+come :arg1 you :time now :mode imperative
+and :op2 ( see :arg0 you :arg1 ( have-manner :arg2 ( change :arg1 everything )  )  )
+say :arg0 fox :arg1 goodbye
+man :mod little
+go-on :arg0 he :arg1 ( contrast :arg1 ( beautiful :arg1 you )  :arg2 ( empty :arg1 you )  )
+confide :arg0 he :arg1 ( recommend :arg1 ( listen :arg0 he :arg1 she :polarity - )  :arg2 he )  :arg2 i :time ( day :mod one )
+contrast :arg2 ( interrupt :arg0 she :arg1 she :time ( point :mod that )  )
+speak :arg0 ( prince :mod little )  :arg1 ( have :mode interrogative :arg0 you :arg1 ( poison :arg1-of good )  )  :mod again :time ( after :op1 silent )
+resemble :arg1 ( well :mod this )  :arg2 ( well :location village )
+and :op1 ( enter :arg0 ( person :arg0-of ( light :arg1 lamp )  :source ( and :op1 location_name_0 :op2 location_name_1 )  )  :time next :purpose ( step :poss person :part-of dance )  )  :op2 ( wave :arg1 person :arg2 ( back :direction ( into :op1 wing )  )  :time then :degree too )
+rite :arg1-of ( have :arg0 ( person :arg0-of ( hunt :arg1 i )  )  )  :arg0-of exemplify
+feel :arg0 i :arg1 ( need :arg0 i :arg1 ( protect :arg0 i :arg1 he :conj-as-if ( flame :arg1 he :arg1-of ( extinguish :arg0 ( puff-up :arg1 wind :mod little )  :arg1-of possible )  )  )  )
+possible :polarity - :arg1 ( tell :arg0 i :arg1 that :arg2 you )  :mod either
+trick :arg0 i :arg1 you :mod ( shabby :degree very )
+propose :arg0 ( prince :mod little )  :arg1 ( and :op1 come :op2 ( play :arg3 prince )  )
+have-concession :arg1 ( deject :arg0 visit :arg1 ( prince :mod little )  :arg1-of deep )  :arg2 ( visit :arg1-of ( short :degree very )  :domain this )
+mountain :domain ( thing :arg1-of ( matter :arg2 we )  )
+contrast :arg2 ( have :arg0 you :arg1 ( hair :mod ( color :mod gold )  )  )
+say :arg0 he :arg1 ( morning :arg1-of good )  :manner courtesy
+and :op1 ( hunt :arg0 i :arg1 chicken )  :op2 ( hunt :arg0 man :arg1 i )
+say :arg0 i :arg1 ( move :arg0 ( prince :mod little :arg0-of ( sleep :location here )  )  :arg1 i :arg2 ( loyal :arg1 prince :arg2 ( flower :op1 ( image :poss ( rose :arg1-of ( shine :arg2 ( through :op1 ( being :poss prince :mod whole )  )  :arg1-of ( resemble :arg2 ( flame :arg1 lamp )  )  :concession ( even-when :op1 ( sleep :arg0 prince )  )  )  )  )  )  )  :arg1-of deep )  :arg2 i :time ( open :arg1 ( lip :part-of prince )  :degree slight :manner ( smile :mod half :mod suspicious )  )  :mod again
+contrast :arg1 ( open :arg0 businessman :arg1 ( mouth :part-of businessman )  )  :arg2 ( find :arg0 businessman :arg1 ( answer :polarity - )  )
+ask :arg0 ( prince :mod little )  :arg1 ( possible :arg1 ( recognize :arg0 he :arg1 prince :condition ( see :polarity - :arg0 he :arg1 prince :time before :time ever )  )  :manner amr-unknown )  :arg2 prince
+chapter :mod num_0
+rise-up :arg0 ( person :poss you :arg0-of revolution )  :arg1 you :condition ( order :arg0 you :arg1 person :arg2 ( throw :arg0 person :arg1 person :arg2 sea )  )
+and :op1 ( add :arg0 he :arg1 ( and :op1 ( go :arg0 you :mode imperative )  :op2 ( look :arg0 you :arg1 rose :mod again :mode imperative )  )  :time then )
+come :polarity - :mode imperative :arg1 you :purpose ( see :arg0 you :arg1 that )
+have-concession :arg1 ( make :arg0 he :arg1 ( reasonable :arg1 ( thing :arg2-of order )  )  :arg1-of ( cause :arg0 ( man :arg1-of ( good :degree very )  :domain he )  )  )
+obligate :arg1 you :arg2 ( return :arg1 you :arg4 ( engine :poss you )  )
+raise :arg0 i :arg1 bucket :arg4 ( lip :part-of he )
+think :arg0 i :arg1 ( exist :arg1 ( they :quant ( or :op1 num_0 :op2 num_1 )  )  )
+wait :arg1 one :time ( until :op1 ( furnish :arg0 ( person :arg0-of explore )  :arg1 prove )  )  :time ( before :op1 ( put :arg0 one :arg1 they :direction down :instrument ink )  )
+planet :domain it :mod ( magnificent :degree most :compared-to ( planet :arg1-of ( see :arg0 he :time ever )  )  )  :mod ( stately :degree most :compared-to planet )
+contrast :arg2 ( possible :polarity - :arg1 ( pluck :arg0 you :arg1 star :arg2 heaven )  )
+say :arg0 i :arg1 nothing
+look :arg0 you :arg1 amr-unknown
+have :arg0 you :arg1 ( nothing :arg1-of ( do :arg0 you )  :arg1-of ( contrast :arg2 ( wait :arg1 you :arg2 i :location there )  )  )
+say :arg0 king :arg1 ( hum :mode expressive )
+and :op1 ( shut :arg0 ( prince :mod little )  :arg1 ( globe :consist-of glass :poss she :op1-of ( under :location-of ( flower :mod little :poss prince )  )  )  :time ( rate-entity :arg4 night )  )  :op2 ( watch :arg0 prince :arg1 sheep :manner ( careful :degree very )  )
+and :op1 ( try :mode imperative :arg0 you :arg1 ( happy :arg1 you )  )  :op2 ( leave :mode imperative :arg0 you :arg1 ( alone :domain ( globe :consist-of glass )  )  )
+no
+minister :topic justice
+say :arg0 she :arg1 ( come :mode imperative :arg1 tiger :accompanier ( claw :part-of tiger )  )  :arg2 ( prince :mod little )  :time ( day :mod one )  :arg0-of exemplify :time ( speak :arg0 she :arg1 ( thorn :quant num_0 :part-of she )  )
+say :arg0 i :arg1 ( have-polarity :arg2 - :arg1-of sure )  :arg2 i :time one
+answer :arg0 echo :arg2 ( you :domain amr-unknown )
+contrast :arg2 ( take :arg0 he :arg1 courage :mod ( again :frequency num_0 )  )
+order :mode imperative :arg0 you :arg1 sun :arg2 ( set :arg1 sun )
+talk :arg0 you :arg1-of ( resemble :arg2 grown-up :mod just )
+contrast :arg2 ( come-upon :arg0 ( prince :mod little )  :arg1 road :time ( after :op1 ( walk :arg0 prince :path ( and :op1 sand :op2 rock :op3 ( thing :arg1-of snow )  )  :arg1-of long )  )  :time at-last )
+and :op1 ( sure :arg0 no-one :arg1 ( thing :manner-of ( find :arg0 no-one :arg1 it )  )  :time ever :mod to-be-sure )  :op2 ( possible :arg1 ( look :arg0 no-one :arg1 it :time ever )  )
+comfort :polite + :mode imperative :arg0 you :arg1 i :condition this
+astonish :arg0 ( understand :arg0 i :arg1 ( radiate :arg0 sand :mod mystery :mod that )  :manner sudden )  :arg1 i
+chapter :mod num_0
+kind :mode imperative :arg0 you :arg1 this :arg2 i
+be-located-at :arg1 it :arg2 ( there :mod right :direction ( above :op1 we )  )
+speak :arg0 snake :arg1 ( send :arg0 snake :arg1 ( person :arg1-of ( touch :arg0 snake )  :mod any )  :arg2 ( back :op1 ( earth :arg3-of ( come :arg1 person )  )  )  )  :mod again
+and :op1 ( drop :arg0 i :arg1 ( eye :part-of i )  :arg4 ( foot :part-of wall )  :time then )  :op2 ( leap :arg0 i :destination air )
+hear :arg0 ( man :mod conceit )  :arg2 he :polarity -
+say :arg0 he :arg1 ( resemble :polarity - :arg1 you :arg2 ( rose :poss i )  :degree at-all )
+obligate :arg2 ( and :op1 ( discover :arg0 i :arg1 ( person :arg0-of ( have-rel-role :arg1 i :arg2 friend )  )  )  :op2 ( understand :arg0 i :arg1 ( thing :quant ( many :mod great )  )  )  )
+important :domain ( geographer :arg1-of ( go :purpose ( loaf :arg0 geographer :path about )  )  )  :degree ( too :degree much )
+and :op2 ( go-on :arg1 ( temporal-quantity temporal-quantity_num_0 :unit year )  :time already )  :time now
+nobody :location ( side :mod that :arg1-of ( same :arg2 this )  )  :mod at-all
+ask :arg0 ( prince :mod little )  :arg1 ( be-located-at :arg1 man :arg2 amr-unknown )  :manner polite
+cause :arg1 ( day :domain ( date-entity weekday_date-entity_0 )  :arg1-of wonderful :beneficiary i )
+have-concession :arg1 ( seem :polarity - :arg1 ( ridiculous :arg1 ( person :mod only :arg1-of ( include :arg2 ( they :mod all )  )  :domain he )  )  :arg2 i )
+say :arg0 i
+say :arg0 he :arg1 ( important :domain ( thing :arg1-of ( see :polarity - )  )  )  :arg2 i :arg1-of instead-of
+bee :mode interrogative
+chapter :mod num_0
+and :op2 ( leave :arg0 i :arg1 she :arg2 ( planet :source-of i )  :arg0-of ( cause :arg1 ( alone :degree all :domain she )  )  )
+shame :arg0 drink
+and :op2 ( sad :arg0 that )
+buy :arg0 they :arg1 ( thing :arg1-of ( make :time already )  )  :location shop
+heavy :degree too
+tame :arg1 i :polarity -
+say :arg0 i :arg1 ( frighten :arg1 i :degree little )  :arg2 he
+have :arg0 flower :arg1 thorn :purpose spite :mod just
+love :arg0 i :arg1 desert :time always
+do :arg0 i
+think :arg0 he :arg1 ( planet :mod ( queer :degree amr-unknown )  )
+risk :arg0 one :arg2 ( weep :arg0 one :degree little )  :condition ( let :arg0 one :arg1 ( tame :arg1 one )  )
+and :op2 ( put-out :arg0 he :arg1 ( lamp :poss he )  )
+and :op2 ( shake :arg0 ( train :mod express :arg1-of ( light :manner brilliant )  )  :arg1 ( cabin :poss switchman )  :time ( rush :arg1 train :direction by :arg0-of ( roar :arg1-of ( resemble :arg2 thunder )  )  )  )
+demand :arg0 he :arg1 ( eat :mode interrogative :arg0 sheep :arg1 ( flower :mod too )  :condition ( eat :arg0 sheep :arg1 ( bush :mod little )  )  )  :manner abrupt :conj-as-if ( bear :arg0 ( meditate :arg1 ( problem :poss he )  :arg1-of long :manner silent )  :arg1 ( thing :arg1-of question )  )  :arg2-of ( lead-up :polarity - :arg1 anything )
+and :op1 ( appear :arg1 they :time ( date-entity dayperiod_date-entity_0 mod_date-entity_1 )  :location grass )  :op2 ( fade :arg1 they :manner peaceful :time ( by :op1 night )  )
+possible :arg1 ( own :arg0 one :arg1 star )  :manner amr-unknown
+chapter :mod num_0
+say :arg0 fox :arg1 ( monotonous :domain ( life :poss i )  :degree very )
+understand :arg0 you :arg1 ( unique :domain ( rose :poss you )  :location ( world :extent all )  )  :time now
+say :arg0 monarch :arg1 ( contrary :arg1 ( yawn :location king )  :arg2 etiquette )  :arg2 he
+obligate :arg1 i :arg2 ( and :op1 ( light :arg0 i :arg1 ( lamp :poss i )  )  :op2 ( put-out :arg0 i :arg1 lamp )  )  :frequency ( rate-entity :arg2 ( temporal-quantity temporal-quantity_num_0 :unit minute )  )
+sheep
+and :op2 ( thunder :arg0 ( train :mod express :arg1-of ( light :manner brilliant )  :ord ( ordinal-entity ordinal-entity_num_0 )  )  :direction by :direction ( opposite :arg2 direction )  )
+and :op2 ( weak :arg1 she :degree so )
+responsible :arg0 you :arg1 ( rose :poss you )
+send :mode imperative :arg0 you :arg1 ( word :arg1 ( come :arg1 he :arg4 back )  )  :arg2 i
+demand :arg0 ( prince :mod little )  :arg1 ( cause :arg0 amr-unknown :arg1 ( drink :arg0 you )  )
+small :compared-to all :degree most :domain it
+well :arg4-of ( come :arg1 we )  :arg1-of ( resemble :polarity - :arg2 ( well :location location_name_0 )  )
+go-on :arg0 he :arg1 ( reflect :arg0 he :arg1 ( contrast :arg1 ( think :arg0 he :arg1 ( rich :arg1-of ( cause :arg0 ( have :arg0 he :arg1 ( flower :mod ( unique :compared-to ( world :mod all )  )  )  )  )  :domain he )  )  :arg2 ( have :arg0 he :arg1 ( rose :mod common )  :mod all )  )  )  :time then
+be-located-at :arg1 you :arg2 there :mode interrogative :mod still
+reply :arg0 ( person :arg0-of ( light :arg1 lamp )  )  :arg2 ( order :arg2 that )
+flower
+important :polarity - :domain that
+fear :arg0 i :degree ( more :mod much )  :time ( date-entity dayperiod_date-entity_0 mod_date-entity_1 )
+one :mod only :domain he :arg1-of ( have :arg0 we )
+and :op1 ( do :arg0 i :arg1 amr-unknown :arg2 ( temporal-quantity temporal-quantity_num_0 :unit minute :mod that )  )
+direct :arg0 ( man :mod conceit )  :arg1 he :arg2 ( clap :mode imperative :arg0 he :arg1 ( hand :part-of he )  :manner ( clap :arg0 he :arg1 ( hand :quant num_0 :part-of he )  :arg2 ( hand :part-of he :arg1-of ( differ :arg2 hand )  )  )  )  :time now
+say :arg0 fox :arg1 ( possible :arg1 it )
+cause :arg0 it :arg1 ( good :arg1 ( make :arg1 ( rich :domain i )  )  :arg2 i )
+tragedy :domain that
+gaze :arg0 ( prince :mod little )  :arg1 he :arg1-of long
+accommodate :arg0 it :arg1 ( and :op1 ( lamp :mod street )  :op2 ( person :arg0-of ( light :arg1 lamp )  )  )  :extent ( enough :mod just )
+have-purpose :arg1 thorn :arg2 amr-unknown :arg1-of have-condition
+ask :arg0 ( prince :mod little )  :arg1 ( that :arg1-of ( cause :arg0 amr-unknown )  )
+moment :domain that :mod regret :ord ( ordinal-entity ordinal-entity_num_0 )  :poss he
+use :arg1 thorn :arg2 amr-unknown
+chapter :mod num_0
+possible :arg1 ( watch :arg0 he :arg1 ( sunset :arg1-of ( have-frequency :polarity - :arg2 num_0 :range ( temporal-quantity temporal-quantity_num_0 :unit year )  )  :arg1-of ( have-frequency :arg2 ( or :op1 num_1 :op2 num_2 :op3 num_3 )  :range temporal-quantity )  )  :manner ( move :polarity - :arg0 he :arg1 ( chair :poss he )  :time ever )  )  :condition ( master :domain he :poss-of ( authority :arg1-of complete :mod such )  )
+and :op1 ( take :arg0 i :arg1 ( prince :mod little )  :arg3 ( arm :part-of i )  )  :op2 ( set-out :arg0 i :manner walk :mod ( again :frequency num_0 )  )  :time ( drop-off :arg0 prince :arg2 ( sleep :arg0 prince )  )
+cause :arg0 that :arg1 ( trouble :arg0 they :arg1 we :quant ( end :polarity - )  )
+order :arg1 ( inquire :arg1 ( thing :arg1-of ( discover :arg0 person )  )  )  :time ( show :arg1 ( good :arg1 ( character :poss ( person :arg0-of explore )  :arg1-of moral )  )  )  :time then
+say :arg0 switchman :arg1 ( pursue :arg0 they :arg1 ( nothing :extent at-all )  )
+mean :arg1 it :arg2 ( establish :arg1 tie )
+change :arg1 it :polarity -
+have :arg0 man :arg1 ( time :duration-of ( understand :arg0 man :arg1 anything )  )  :polarity -
+demand :arg0 ( he :mod thunderstruck )  :arg1 ( amr-unknown :domain you )
+contrast :arg2 ( man :domain i :arg1-of ( interest :arg2 ( matter :mod consequence )  :arg1-of ( natural :arg2 i )  )  )
+phew :mode expressive
+see :polarity - :mode interrogative :arg0 you :arg1 ( busy :arg1 i :arg2 ( matter :arg0-of ( have :arg1 consequence )  )  :degree very )
+contrast :arg1 ( answer :polarity - :arg0 he :arg1 ( question :arg2 he )  :time ever )  :arg2 ( flush :mode interrogative :arg1 one :arg1-of ( mean :arg2 yes )  )
+cough :arg0 flower
+try :arg0 you :arg1 ( say :arg0 you :arg1 amr-unknown )
+contrast :arg2 ( come :arg1 you :arg3 ( away :extent far )  )
+inhabit :arg0 king :arg1 ( thing :ord ( ordinal-entity ordinal-entity_num_0 )  :arg1-of ( include :arg2 they )  )
+evening :arg1-of good
+and :op2 ( go :arg0 ( prince :mod little )  :direction away )
+say :arg0 ( prince :mod little )  :arg1 ( understand :arg0 prince :polarity - )
+and :op1 ( end :arg0 ( person :arg0-of tipple )  :arg1 ( speak :arg0 person )  )  :op2 ( shut-up :arg0 person :arg1 person :manner ( silent :mod ( pregnable :polarity - )  :domain person )  )
+and :op2 ( sweet :arg1 ( laugh :arg0 ( star :mod all )  )  )
+exclaim :arg0 he :arg1 ( visit :arg0 he :arg1 ( person :arg0-of ( admire :arg1 he )  )  :time about-to )  :time ( see :arg0 he :arg1 ( come :arg1 ( prince :mod little )  )  :ord ( ordinal-entity ordinal-entity_num_0 )  )  :direction ( from :op1 afar )
+know :arg0 i
+believe :arg0 i :arg1 ( take :arg0 he :arg1 advantage :arg2 ( migrate :arg0 ( flock :arg0 ( bird :mod wild )  )  )  :purpose ( escape :arg0 he )  )
+say :arg0 snake :arg1 ( date-entity dayperiod_date-entity_0 :arg1-of good )
+recommend :arg1 ( advise :arg0 you :arg1 they :arg2 ( calculate :arg0 they )  )  :arg2 you
+and :op1 ( they :quant num_0 :arg1-of ( alike :mod all )  :location here :location ( garden :quant num_1 )  )
+sketch :arg0 i :arg1 muzzle :instrument pencil :time then
+look :arg0 i :arg1 ( have-manner :arg2 die )  :degree little
+chapter :mod num_0
+pull :arg0 ( prince :mod little :arg0-of ( sense :arg1 deject :mod certain )  )  :arg1 ( shoot :part-of baobab :mod little :ord ( ordinal-entity :value -1 )  )  :mod also :direction up
+raise :arg0 businessman :arg1 ( head :part-of businessman )
+want :arg0 i :arg1 ( put :arg0 you :arg1 i :arg2 ( under :op1 ( globe :consist-of glass )  )  :time ( date-entity dayperiod_date-entity_0 )  )
+flower :domain i
+and :op1 ( answer :arg0 king :arg1 he :arg2 ( order :arg0 king :arg1 he :arg2 ( do :arg1 so )  )  )  :op2 ( gather :arg0 king :arg1 ( fold :part-of ( mantle :consist-of ermine )  )  :manner majesty )
+understand :arg0 you :arg1 ( far :degree too )
+multi-sentence :snt1 ( reach :arg0 i :arg1 wall :time ( catch :arg0 i :arg1 ( man :mod little :poss i )  :mod just :location ( arm :part-of i )  )  )  :snt2 ( face :arg1-of ( white :degree equal :compared-to snow )  :part-of man )
+and :op1 ( stop :arg0 shrub :arg1 ( grow :arg1 shrub )  :time soon )  :op2 ( begin :arg0 shrub :arg1 ( ready :arg0 shrub :arg1 shrub :arg2 ( produce :arg0 shrub :arg1 flower )  )  )
+contrast :arg2 ( go-on :arg0 he :arg1 ( mix-up :arg0 you :arg1 everything :arg3 together )  :manner relentless )
+white :arg1 ( prince :mod little )  :time now :arg1-of ( cause :arg0 ( enrage :arg1 prince )  )
+say :arg0 he :arg1 ( beautiful :arg1 ( planet :poss you )  :degree very )
+resemble :arg1 it :arg2 that
+simple :arg1 flower :degree very :time always :location ( planet :poss ( prince :mod little )  )
+scholar :domain geographer :arg0-of ( know :arg1 ( location :location-of ( and :op1 sea :op2 river :op3 town :op4 mountain :op5 desert :mod all )  )  )
+see :arg0 i :arg1 they :time ( before :op1 now :quant ( several :op1 ( temporal-quantity temporal-quantity_num_0 :unit year )  )  )
+chapter :mod num_0
+interest :arg0 this :arg1 they :mod only
+say :arg0 geographer :arg1 ( possible :arg1 ( tell :arg0 geographer :arg2 you )  :polarity - )
+add :arg0 she :arg1 ( linger :polarity - :mode imperative :arg1 you :compared-to this )  :time then
+have-concession :arg1 ( say :arg0 he :arg1 ( possible :arg1 ( absurd :domain ( man :mod this )  )  )  :arg2 he )
+smell :polarity - :arg0 he :arg1 flower :time ever
+say :arg0 geographer :arg1 exact
+inhabit :arg0 ( man :mod conceit )  :arg1 ( planet :ord ( ordinal-entity ordinal-entity_num_0 )  )
+say :arg0 flower :arg1 ( love :arg0 flower :arg1 he :mod of-course )  :arg2 he
+confess :arg0 ( person :arg0-of tipple :arg0-of ( hang :arg1 ( head :part-of person )  )  )  :arg1 ( forget :arg0 person :arg1 ( shame :arg1 person )  )
+no
+come :arg1 ( word :arg0 ( prince :mod little )  :arg1 ( thirst :mode interrogative :arg0 ( you :mod too )  )  :mod last )  :arg4 ( memory :poss i )  :manner ( reel :arg1 word :arg2 memory )
+answer :arg0 snake :arg2 ( and :op1 ( location_name_0 :domain this )  :op2 ( location_name_1 :domain this )  )
+say :arg0 ( prince :mod little )  :arg1 ( and :op1 ( raise :arg0 ( man :location ( live :arg0 you )  )  :arg1 ( rose :quant num_0 )  :location ( garden :arg1-of same )  )  :op2 ( find :polarity - :arg0 man :arg1 ( thing :arg1-of ( look :arg0 man )  )  :location garden )  )
+say :arg0 geographer :arg1 ( possible :arg1 ( tell :arg0 geographer :arg2 you )  :polarity - )
+raise :arg0 ( man :mod conceit )  :arg1 hat :mod again :subevent-of ( salute :arg0 man :instrument hat )
+discourage :arg1 he :degree little
+and :op1 ( tame :arg0 no-one :arg1 you )  :op2 ( tame :arg0 you :arg1 no-one )
+and :op2 ( look :arg0 he :arg1 ( planet :poss geographer )  :direction ( around :op1 he )  )
+say :arg0 fox :arg1 ( good :arg1 ( come :direction back :time ( hour :arg1-of same )  )  :degree more )
+and :op1 ( go :arg0 he :direction back :purpose ( meet :arg0 he :arg1 fox )  )
+over :mode interrogative :op1 everything
+know :arg0 you :arg1 that :manner amr-unknown
+say :arg0 fox :arg1 man
+satisfy :arg1 ( prince :mod little )  :mod still :polarity -
+difficult :degree ( more :degree much )  :domain ( judge :arg0 one :arg1 one )  :compared-to ( judge :arg1 other )
+possible :polarity - :arg1 ( show :arg0 i :arg1 ( location :location-of ( find :arg1 ( star :poss i )  )  )  :arg2 you )  :arg1-of ( cause :arg0 ( everything :mod ( small :degree so )  :location ( live :arg0 i )  )  )
+contrast :arg2 ( come :arg1 he :arg4 ( idea :poss he )  :direction back )
+reasonable :arg1 it :time ( day :mod old )
+and :op2 ( need :polarity - :arg0 you :arg1 i )
+know :polarity - :arg0 i :arg1 ( and :op1 ( manner :manner-of ( reach :arg0 i :arg1 he :arg1-of possible )  )  :op2 ( location :location-of ( overtake :arg0 i :arg1 he :arg1-of possible )  :location-of ( go-on :arg1 i :mod ( again :frequency num_0 )  :manner ( accompany :arg0 he :arg1 i :manner hand-in-hand )  )  )  )
+feel :arg0 ( prince :mod little :arg1-of ( present :arg2 ( appear :arg1 ( bud :mod huge )  :ord ( ordinal-entity ordinal-entity_num_0 )  )  )  )  :arg1 ( obligate :arg2 ( emerge :arg0 ( thing :arg1-of ( appear :manner miraculous )  :mod sort )  :arg1 bud )  )  :time at-once
+tame :arg0 you :arg1 i :condition ( want :arg0 you :arg1 ( have-rel-role :arg0 person :arg1 you :arg2 friend )  )
+cause :arg0 ( clear :arg1 ( serious :arg1 ( break-down :arg1 ( plane :poss i )  )  :degree extreme )  :arg2 i )  :arg1 ( worry :arg1 i :quant ( much :degree very )  )
+exclaim :arg0 he :arg1 ( person :arg0-of explore )  :arg2 he :time ( see :arg0 he :arg1 ( come :arg1 ( prince :mod little )  )  )
+say :arg0 fox :arg1 ( act :domain that :arg1-of ( neglect :frequency ( often :degree too )  )  :mod also )
+that :mod all :time now
+and :op2 ( add :arg0 he :arg1 ( worth :polarity - :arg1 it :arg2 trouble )  )
+contrast :arg1 ( same :arg1 it :arg2 ( that :location ( page :arg1-of precede )  )  )  :arg2 ( draw :arg0 it :arg1 it :mod again :purpose ( impress :arg0 it :arg1 ( memory :poss you )  )  )
+chicken :mode interrogative
+retort :arg0 businessman :arg2 ( belong :arg0 they :arg1 amr-unknown )  :manner peevish
+show :arg0 she :arg1 ( thorn :quant num_0 :part-of she )  :manner naive
+say :arg0 fox :arg1 ( possible :polarity - :arg1 ( play :arg0 fox :arg3 you )  )
+chapter :mod num_0
+belong :arg0 they :arg1 i :arg1-of ( cause :arg0 ( person :ord ( ordinal-entity ordinal-entity_num_0 )  :domain i :arg0-of ( think :arg2 it )  )  )
+man :arg0-of ( have :arg1 ( profession :arg1-of real )  )  :time at-last
+and :op1 ( remark :arg0 ( prince :mod little )  :arg1 ( luck :arg1-of bad :beneficiary plant :domain ( abhor :arg1 draft )  )  )  :op2 ( add :arg0 prince :arg1 ( creature :mod ( complex :degree very )  :domain ( flower :mod this )  )  :beneficiary prince )
+and :op1 ( oh :mode expressive :condition ( know :arg0 i :arg1 ( flower :quant num_0 :mod ( unique :location world )  :arg1-of ( grow :location ( contrast :arg0 nowhere :arg1 ( planet :poss i )  )  )  :arg1-of ( destroy :arg0 ( sheep :quant num_1 :mod little :arg0-of ( notice :polarity - :arg1 destroy )  )  :arg2 ( bite :quant num_2 :arg1-of single )  :arg2-of contrast :arg1-of possible :time ( date-entity dayperiod_date-entity_0 mod_date-entity_1 )  )  )  :arg1-of contrast )  )
+be-located-at :arg1 ( prince :mod little :arg1-of ( comfort :arg2-of obligate )  )  :arg2 ( and :op1 ( star :quant num_0 )  :op2 ( planet :quant num_1 )  :op3 ( location_name_0 :poss i )  )
+morning :arg1-of good
+say :arg0 i :arg2 ( prince :mod little )
+and :op2 ( bear :arg1 i :time ( moment :arg1-of ( same :arg2 sun )  )  )
+cause :arg1 ( lie :arg0 ( person :arg0-of explore )  :condition-of ( bring :arg1 disaster :arg2 ( book :poss geographer )  )  )
+remain :arg1 he :duration instant :manner ( move :polarity - )
+moment :arg1-of ( compose :arg2 ( silent :arg1-of complete )  )
+possible :polarity - :arg1 ( know :arg0 she :arg1 ( anything :topic ( world :mod ( other :mod any )  )  )  )
+eat :arg0 i :arg1 bread :polarity -
+that :mod just
+say :arg0 ( prince :mod little )  :arg1 ( obligate :arg1 you :arg2 ( honor :arg0 you :arg1 ( thing :arg1-of ( promise :arg0 you )  )  )  )  :manner soft :time ( sit-down :arg1 prince :location ( beside :op1 i )  :mod ( again :frequency num_0 )  )
+tend :arg0 he :arg1 flower :arg1-of cause
+say :arg0 fox :arg1 ( fox :domain fox )
+go :arg0 ( prince :mod little )  :direction away :purpose ( look :arg0 prince :arg1 rose :mod again )
+say :arg0 ( prince :mod little )  :arg1 ( walk :arg0 i :direction ( toward :destination ( spring :source-of ( water :arg1-of fresh )  )  )  :manner ( leisure :poss prince )  :condition ( have :arg0 prince :arg1 ( temporal-quantity temporal-quantity_num_0 :unit minute :arg1-of ( spend :arg2 ( like :arg0 prince )  )  )  )  )  :arg2 prince
+yes
+morning :arg1-of good
+say :arg0 i :arg1 ( endanger :polarity - :arg1 ( flower :arg1-of ( love :arg0 he )  )  )  :arg2 he
+and :op1 ( hunger :arg0 he :polarity - )  :op2 ( thirst :arg0 he :polarity - )  :time ever
+and :op1 ( wake :arg0 we :arg1 well )  :op2 ( sing :arg0 well )
+cause :arg1 ( set-out :arg0 i :arg1 ( way :poss i )  :mod again )
+hum :mode expressive
+and :op2 ( moan :arg0 pulley :arg1-of ( resemble :arg2 ( moan :arg0 ( weathervane :mod old :arg1-of ( forget :arg0 wind :time ( since :op1 long )  )  )  )  )  )
+say :arg0 fox :arg1 ( so :domain that )
+perfume :arg0 ( thing :poss i )  :arg1 ( planet :mod all :poss i )
+go :mode imperative :arg0 you :time now
+contrast :arg1 ( satisfy :polarity - :arg0 ( complete :arg0 flower :arg1 ( prepare :arg0 flower :arg1 ( beautiful :arg1 flower )  )  :location ( chamber :arg1-of green :poss flower :arg2-of shelter )  )  :arg1 flower )
+see :polarity - :arg0 i :arg1 ( set-out :arg0 he :arg1 ( way :poss he )  )  :time ( date-entity dayperiod_date-entity_0 mod_date-entity_1 )
+know :polarity - :arg0 i :arg1 ( thing :arg1-of ( say :arg0 i :arg2 he )  )
+and :op2 ( content :arg1 you :arg2 ( know :arg0 you :arg1 i )  :time ( comfort :arg1 ( sorrow :arg0 you :arg1-of ( soothe :arg0 time )  :mod all )  )  )
+tell :arg0 i :arg1 ( cause :arg0 snake :mod also )  :arg2 you
+draw :arg0 i :arg1 ( thing :arg2-of ( muzzle :arg1 ( sheep :poss you )  )  )  :arg2 you
+say :arg0 king :arg1 ( do :arg0 they :mod certain )
+repeat :arg0 ( prince :mod little )  :arg1 ( responsible :arg0 prince :arg1 ( rose :poss prince )  )  :purpose ( remember :arg0 prince :arg1-of sure )
+say :arg0 fox :arg1 ( do :arg0 it :arg1 ( good :arg1 it :arg2 fox )  :arg2 fox :arg1-of ( cause :arg0 ( color :arg1 ( field :mod wheat )  )  )  )
+choke-up :arg0 sob :arg1 ( word :poss he )
+obligate :arg0 ( voice :mod another )  :arg1 he :arg2 answer :arg0-of ( cause :arg1 ( reply :arg0 he :arg2 yes )  )
+morning :arg1-of good
+say :arg0 i :arg2 i
+hum :mode expressive
+belong :arg1 nobody
+and :op2 ( put-out :arg0 he :arg1 ( lamp :poss he )  )
+morning :arg1-of good
+come :mode imperative :arg1 you :direction back :time ( date-entity dayperiod_date-entity_0 mod_date-entity_1 )
+contrast :arg2 ( add :arg0 he :arg1 ( mean :arg1 tame :arg2 amr-unknown )  :time ( after :op1 ( think :mod some )  )  )
+small :degree ( too :degree much )  :compared-to ( clean-out :arg0 we :arg1 ( volcano :poss we )  )  :domain we :location ( earth :poss we )  :arg1-of obvious
+chapter :mod num_0
+loosen :arg0 i :arg1 ( muffler :consist-of gold :arg1-of ( wear :arg0 he :time always )  )
+demand :arg0 i
+write :arg0 we :arg1 ( thing :mod eternal )
+and :op2 ( give :arg0 he :arg1 ( smile :arg1-of sad )  :arg2 i )
+ah :mode expressive
+say :arg0 he :arg1 ( odd :degree very :mod certain :domain grown-up )  :arg2 he :time ( continue :arg0 he :arg1 ( journey :arg0 he )  )
+try :arg0 ( i :arg1-of ( busy :degree very )  )  :arg1 ( unscrew :arg0 i :arg1 ( bolt :arg1-of ( stick :arg2 ( engine :poss i )  )  )  )  :time ( moment :mod that )
+contrast :arg2 ( say :arg0 i :arg1 ( and :op1 ( one :mod absent-minded :time ( or :op1 ( moment :mod some )  :op2 other )  )  :op2 ( that :mod enough )  )  :arg2 i :time ( time :mod another )  )
+chapter :mod num_0
+show :arg0 i :arg1 ( happy :arg1 i :degree so )  :arg2 you
+think :mode imperative :arg0 you :arg1 ( thing :arg1-of ( need :arg0 i )  )  :arg1-of ( kind :arg0 you :arg2 i )
+possible :arg1 that
+reply :arg0 king :arg2 ( hum :mode expressive )
+cause :arg0 ( think :arg0 ( nobody :mod else )  :arg1 ( own :arg0 nobody :arg1 star )  :time ever :time ( before :op1 i )  )  :arg1 ( own :arg0 i :arg1 star )  :arg1-of ( resemble :beneficiary i )
+say :arg0 snake :arg1 ( lonely :domain ( be-located-at :arg2 ( among :op1 man )  )  :mod also )
+and :op2 ( silent :domain ( they :mod both )  )
+good :arg1 ( it :arg1-of ( resemble :arg2 present )  )  :arg2 heart
+gesture :arg0 i :arg1 ( weary :arg1 i )
+resemble :arg1 you :arg2 ( fox :poss i )  :time ( know :arg0 i :arg1 fox :ord ( ordinal-entity ordinal-entity_num_0 )  )
+or :mode interrogative :op1 ( person :arg0-of ( have-org-role :arg2 general )  )  :op2 i
+and :op2 ( have :arg0 i :arg1 muzzle )
+cough :arg0 ( she :arg1-of ( embarrass :arg0 ( let :arg0 she :arg1 ( catch :arg1 she :arg2 ( verge :arg1 ( truth :polarity - :mod ( naive :degree such )  )  )  )  )  )  )  :purpose ( put :arg0 she :arg1 ( prince :mod little )  :arg2 ( wrong :arg1 prince )  )  :frequency ( or :op1 num_0 :op2 num_1 )
+think :arg0 you :arg1 ( that :mod ( important :polarity - )  )
+say :arg0 fox :arg1 ( live :arg0 you :location ( here :polarity - )  )
+and :op2 ( overcome :arg0 sad :arg1 he )
+and :op1 ( have :arg0 i :arg1 ( water :purpose drink :mod ( little :degree so )  :arg1-of leave )  :arg0-of ( obligate :arg1 i :arg2 ( fear :arg0 i :arg1 ( bad :degree most )  )  )  )
+know :arg0 i :arg1 ( draw :arg0 i :arg1 ( and :op1 ( outside :part-of ( boa :mod constrictor )  )  :op2 ( inside :part-of boa )  )  )
+mushroom
+make :polarity - :arg0 ( and :op1 ( rose :mod common )  :op2 ( volcano :quant num_0 :arg1-of ( come :arg4 ( knee :part-of i )  :direction up )  :arg2-of ( include :arg1 ( volcano :quant num_1 :mod ( extinct :mod perhaps :duration forever )  )  )  )  )  :arg1 ( prince :mod ( great :degree very )  :domain i )
+follow :arg0 i :arg1 ( profession :arg1-of terrible )
+seem :arg1 ( fragile :degree more :domain ( nothing :location ( location_name_0 :mod all )  )  )  :arg2 i :mod even
+and :op1 ( dry :arg1 it :degree altogether )  :op2 ( pointed :degree altogether :domain it )  :op3 ( and :op1 ( harsh :arg1 it )  :op2 ( forbidding :domain it )  :degree altogether )
+possible :arg1 ( help :arg0 i :arg1 you :time ( day :mod some )  )  :condition ( grow :arg1 you :arg2 ( homesick :topic ( planet :source-of you )  :degree too :domain you )  )
+reply :arg0 ( man :mod conceit )  :arg1 ( hat :purpose ( salute :instrument hat )  :domain it )
+say :arg0 ( person :arg0-of ( light :arg1 lamp )  )  :arg1 ( do :polarity - :arg0 that :arg1 ( good :arg2 person :degree much )  :arg2 person )
+reply :arg0 ( person :arg0-of tipple )  :arg2 ( cause :arg0 ( possible :arg1 ( forget :arg0 person )  )  )
+contrast :arg2 ( shine :arg1 sun :arg2 ( life :poss i )  :condition ( tame :arg0 you :arg1 i )  )
+difficult :domain it
+ask :arg0 he :arg1 ( advise :arg0 you :arg1 he :arg2 ( visit :arg0 he :arg1 ( place :domain amr-unknown )  :time now )  )
+bring :arg0 amr-unknown :arg1 you :arg2 here
+contrast :arg2 ( know :polarity - :arg0 i :arg1 ( hour :time ( ready :arg1 ( heart :part-of i )  :arg2 ( greet :arg0 heart :arg1 you )  )  )  :time ever :condition ( come :arg1 you :time ( time :mod ( any :mod just )  )  )  )
+confuse :arg0 you :arg2 everything
+chapter :mod num_0
+no
+understand :polarity - :arg0 he :arg1 ( sweet :arg1 this :arg1-of quiet )
+command :arg0 i :arg2 it
+hasten :arg0 king :arg1 ( assure :arg0 king :arg1 he :arg2 ( order :arg0 king :arg1 he :arg2 ( ask :arg0 he :arg2 king )  )  )
+recommend :arg1 ( run :polarity - :arg0 i :time ever :direction ( away :op1 she )  )
+believe :arg0 they :arg1 ( weapon :domain ( thorn :poss they )  :arg1-of terrible )
+and :op2 ( change :arg1 ( bell :mod little )  :arg2 tear :time then )
+and :op2 ( do :arg0 you :arg1 amr-unknown :arg3 ( star :quant num_0 )  )
+say :arg0 geographer :arg1 ( book :domain geography :arg1-of ( include :arg2 ( book :mod all )  )  :arg0-of ( concern :arg1 ( matter :mod consequence )  :degree most )  )
+and :op2 ( sharpen :arg0 geographer :arg1 ( pencil :poss geographer )  :time ( after :op1 ( open :arg0 geographer :arg1 ( register :arg0 geographer :mod big )  )  )  )
+evening :arg1-of good
+belong :arg0 ( planet :ord ( ordinal-entity ordinal-entity_num_0 )  )  :arg1 businessman
+contrast :arg2 ( reply :arg0 he :arg1 ( question :arg0 i )  :polarity - )
+say :arg0 i :arg1 nothing
+say :arg0 fox :arg1 ( neglect :arg1 act :frequency ( often :degree too )  )
+do :arg0 you :arg1 ( anything :arg1-of ( like :arg0 you )  )
+and :op2 ( tear :arg1 ( heart :part-of i )  :time ( give :arg0 i :arg1 it :arg2 he )  )
+contrast :arg2 ( see :arg0 i :arg1 king :time already )
+and :op2 ( all :domain that )  :mode interrogative
+anniversary :time tomorrow :poss it
+equal :arg1 ( sum-of :op1 num_0 :op2 num_1 )  :arg2 num_2
+exemplify :arg0 ( possible :arg1 ( order :arg0 he :arg1 i :arg2 ( go :arg0 i :time ( by :op1 ( end :arg1 ( temporal-quantity temporal-quantity_num_0 :unit minute )  )  )  )  )  )
+contrast :arg2 ( man :quant ( only :location ( planet :poss you )  )  :domain you )
+and :op2 ( resemble :arg1 it :arg2 ( laugh :arg0 ( star :mod all )  )  :time ( look :arg0 ( you :mod only )  :arg1 sky :time ( date-entity dayperiod_date-entity_0 :time-of ( have :arg0 you :arg1 ( star :arg0-of ( laugh :arg1-of possible )  )  )  )  )  )
+say :arg0 ( prince :mod little )  :arg1 ( morning :arg1-of good )  :arg2 he
+and :op2 ( and :op1 town :op2 river :op3 desert )  :mode interrogative
+possible :arg1 ( baobab :mod ( kind :arg1-of new )  :domain it )
+stare :arg0 ( he :mod thunderstruck )  :arg1 i
+yes
+contrast :arg2 ( and :op1 ( look :arg0 he :arg1 i :manner steady )  :op2 ( reply :arg0 he :arg1 ( thing :arg1-of ( think :arg0 i )  )  :arg2 ( thirst :arg0 he :mod too )  )  )
+imagine :arg0 they :arg1 ( fill :arg1 ( space :quant ( deal :mod great )  )  :arg2 they )
+begin :arg0 he :arg2 ( visit :arg0 he :arg1 they )  :mod therefore :purpose ( add :arg0 visit :arg2 ( knowledge :poss he )  )
+equal :arg1 ( sum-of :op1 num_0 :op2 num_1 )  :arg2 num_2
+and :op2 ( have :arg0 i :arg1 ( box :poss sheep )  )
+and :op2 ( laugh :arg0 he :mod again )
+excuse :mode imperative :polite + :arg0 you :arg1 i
+inquire :arg0 ( prince :mod little )  :arg1 ( be-temporally-at :arg1 that :arg2 amr-unknown )
+say :arg0 he :arg1 ( flower :poss he )  :time then :mod again
+love :arg0 i :arg1 ( hear :arg0 i :arg1 ( laugh :mod that )  )
+hum :mode expressive
+show :arg0 she :arg1 she :manner sudden :time ( date-entity dayperiod_date-entity_0 mod_date-entity_1 )  :time ( sunrise :mod exact )  :time then
+tell :arg0 ( flower :poss he )  :arg1 ( unique :domain she :location ( universe :mod all )  )  :arg2 he
+say :arg0 king :arg1 ( ah :mode expressive :mod then )
+surprise :arg0 ( absent :arg1 reproach )  :arg1 he
+fall :arg1 he :manner ( gentle :degree equal :compared-to ( fall :arg1 tree )  )
+person :arg0-of explore :domain you
+permit :polarity - :arg0 i :arg1 insubordinate
+live :arg0 i :location ( star :quant num_0 :arg1-of ( include :arg2 star )  )
+ah :mode expressive
+and :op1 ( pass :arg1 ( temporal-quantity temporal-quantity_num_0 :unit day )  :time ( since :op1 ( accident :poss i :location desert )  )  )  :op2 ( listen :arg0 i :arg1 ( story :poss ( person :arg0-of merchandise )  )  :time ( drink :arg0 i :arg1 ( drop :part-of ( water :arg1-of ( supply :arg2 i )  )  :ord ( ordinal-entity :value -1 )  )  )  )
+think :arg0 ( prince :mod little )  :arg1 ( entertain :arg0 it )
+snake :arg1-of yellow :arg2-of ( take :arg0 ( end :arg1 ( life :poss you )  )  :arg1 ( temporal-quantity temporal-quantity_num_0 :unit second :mod just )  )  :location ( before :op1 i )  :arg0-of ( face :arg1 ( prince :mod little )  )
+and :op1 ( say :arg0 fox :arg1 ( and :op1 ( ah :mode expressive )  :op2 ( cry :arg0 fox )  )  :time ( hour :time-of ( depart :arg0 fox )  :arg1-of near )  )
+say :arg0 i :arg1 ( fear :arg0 he )  :arg2 he
+cause :arg0 ( rose :domain she :poss i )
+insist :arg0 ( prince :mod little :arg0-of ( want :arg1 ( help :arg0 prince :arg1 he )  )  )  :arg1 ( amr-unknown :arg0-of shame )
+blow :arg0 wind :arg1 they :direction away
+say :arg0 ( prince :mod little )  :arg1 goodbye
+say :arg0 fox :arg1 ( morning :arg1-of good )
+eh :mode expressive :mode interrogative
+see :arg0 you :arg1 ( begin :arg1 ( track :poss i )  :location sand )
+and :op1 ( turn :arg1 planet :manner ( rapid :degree more )  :frequency year )  :op2 ( change :arg1 order :polarity - )
+and :op1 ( throb :arg1 something )  :op2 ( gleam :arg0 something )  :concession silent
+worth :polarity - :arg1 it :arg2 trouble
+seem :arg1 ( favorable :domain condition )  :arg2 i
+say :arg0 ( prince :mod little )  :arg1 ( fault :arg1 you :arg2 it )
+look :arg0 i :arg1 it :time ( speak :arg0 you :arg2 i )
+say :arg0 he :arg1 ( glad :arg0 ( agree :arg0 you :arg2 ( fox :poss he )  )  :arg1 he )
+order :arg0 he :arg1 ( planet :poss he )  :arg1-of perfect :time ( date-entity dayperiod_date-entity_0 :time-of ( depart :arg0 he )  )
+say :arg1 ( rule :arg0 person :arg1 amr-unknown )  :arg2 ( person :arg1-of ( title :arg2 sire )  )
+and :op1 ( remember :arg0 he :arg1 ( sunset :arg1-of ( seek :purpose-of ( go :arg0 he :manner ( pull :arg0 he :arg1 chair :mod mere :direction up )  :time ( day :mod other )  )  )  )  )  :op2 ( want :arg0 he :arg1 ( help :arg0 he :arg1 ( person :arg0-of ( have-rel-role :arg1 he :arg2 friend )  )  )  )
+give :arg0 you :arg1 ( thing :arg1-of ( include :arg2 it )  :quant some )  :arg2 i :mode imperative :purpose ( drink :arg0 i :arg1 thing )
+temporal-quantity :mode interrogative temporal-quantity_num_0 :unit month
+condemn :arg0 you :arg1 he :arg3 ( die :arg1 he )  :frequency time-to-time
+know :arg0 you :arg1 man :condition ( appear :arg1 ( man :mod little :arg0-of laugh :arg0-of ( have :arg1 ( hair :mod golden )  )  :arg0-of ( refuse :arg1 ( answer :arg1 question )  )  )  :time then )
+contrast :arg2 ( young :degree too :domain i :compared-to ( know :arg0 i :arg1 ( manner :manner-of ( love :arg0 i :arg1 she )  )  )  )
+disturb :ord ( ordinal-entity ordinal-entity_num_0 )  :domain this
+and :op2 ( hear :arg0 they :arg1 ( thunder :arg1-of roar )  :arg2 ( train :mod express :arg1-of ( light :manner brilliant )  :ord ( ordinal-entity ordinal-entity_num_0 )  )  )
+laugh :arg0 i :location ( star :quant num_0 :arg1-of ( include :arg2 they )  )
+and :op1 ( say :arg0 you :arg1 ( and :op1 yes :op2 ( make :arg0 star :arg1 ( laugh :arg0 i )  :time always )  )  :arg2 they :time then )  :op2 ( think :arg0 they :arg1 ( crazy :arg1 you )  )
+suppose :arg0 i :arg1 ( have :polarity - :mode interrogative :arg0 you :arg1 screen :beneficiary i )
+no :mod ( oh :mode expressive )
+flatten :arg0 ( child :mod only )  :arg1 ( nose :part-of child )  :arg1-of ( cause :arg0 ( push :arg0 child :arg1 nose :arg2 windowpane )  )
+and :op2 ( and :op1 ( put :arg0 i :arg1 ( paper :mod this )  :arg2 drawer )  :op2 ( lock :arg0 i :arg1 drawer :arg3 key )  )  :time then
+and :op2 ( make :arg0 ( color :mod honey )  :arg1 ( happy :arg1 i )  :mod too )
+and :op1 ( oh :mode expressive )  :op2 ( look :mode imperative :arg0 you )
+arrange :polarity - :arg1 ( petal :part-of i :mod all )  :mod still
+opine :arg0 you :arg1 ( fox :arg1-of ( resemble :arg2 ( fox :quant num_0 :mod other )  )  :domain ( i :mod ( more :polarity - )  )  )
+fall :arg1 night
+ask :mode interrogative :arg0 ( prince :mod little )  :arg1 ( satisfy :polarity - :arg1 they :location-of they )
+order :arg0 i :arg1 you :arg2 ( and :op1 ( yawn :arg0 you :frequency sometimes )  :op2 ( do :frequency sometimes )  )  :mod then
+demand :arg0 i
+go :mode interrogative :arg1 you :arg4 ( place :location-of ( land :arg0 you )  )  :direction back
+have :arg0 i :arg1 ( thing :arg1-of flower )  :mod also
+say :arg0 ( person :arg0-of merchandise )  :arg1 ( cause :arg0 they :arg1 ( save :arg0 they :arg1 ( time :arg1-of ( amount :arg2 tremendous )  )  )  )
+believe :polarity - :arg0 grown-up :arg1 you :time ( tell :arg0 you :arg1 that :arg2 grown-up )  :arg1-of sure
+possible :arg1 ( bite :arg0 ( one :mod this )  :arg1 you :purpose ( fun :mod just )  )
+remind :arg0 ( prince :mod little )  :arg1 ( sunset :mode interrogative :poss prince )  :arg2 he :arg1-of ( cause :arg0 ( forget :polarity - :arg0 prince :arg1 ( thing :arg1-of question )  :condition ( ask :arg0 prince :arg1 thing )  :time ever )  )
+say :arg0 ( field :mod wheat )  :arg1 nothing :arg2 i
+hum :mode expressive
+say :arg0 snake :arg1 ah
+or :op1 ( sleep :arg0 they :location there )  :op2 ( yawn :arg0 they :condition ( sleep :polarity - :arg0 they )  )
+endanger :mode interrogative :arg1 ( flower :poss i )  :arg1-of ( cause :arg0 ( disappear :arg1-of speedy )  )
+tire :arg1 he
+say :arg0 ( prince :mod little )  :arg1 ( understand :arg0 prince :arg1 you :mod ( well :degree very )  )
+say :arg0 snake :arg1 ( contrast :arg2 ( powerful :arg1 i :degree more :compared-to ( finger :part-of king )  )  )
+succeed :arg0 i :arg1 ( catch-up :arg1 i :arg2 he )  :time ( walk :arg0 he :arg1-of quick :manner resolute )
+star
+that-is-it
+resemble :arg1 ( water :mod this )  :arg2 ( thing :arg2-of nourish :mod ordinary )  :mod indeed :polarity -
+answer :arg0 king :arg2 ( over :op1 ( that :mod all )  )
+say :arg0 i
+need :arg0 he :arg1 ( sunshine :quant little )  :mod all
+screen :mode interrogative
+have-rel-role :mode imperative :arg0 you :arg1 i :arg2 friend
+sit-down :arg1 you :time first :location ( relative-position :op1 i :quant little :unit distance )  :direction ( down :location grass )  :example that
+allow :arg0 you :arg1 ( go-on :arg1 i :mod by-oneself )
+empty :arg0 ocean :arg1 ocean :arg2 ( water :poss ocean )  :arg1-of ( rare :degree very )
+say :arg0 she :arg1 ( silly :domain she )  :arg2 he :time at-last
+and :op1 ( rush :arg1 they :arg2 about )  :op2 ( excite :arg1 they )  :op3 ( turn :arg1 they :direction ( and :op1 round :op2 round )  )  :time then
+upset :arg0 ( bolt :mod that )  :arg1 i
+inquire :arg0 ( prince :mod little :arg1-of ( sorry :arg2 he :time already )  )  :arg1 ( forget :arg0 he :arg1 amr-unknown )  :arg2 he
+know :arg0 i :polarity -
+amuse :arg0 i :arg1 i :arg2 balderdash :polarity -
+plan :arg0 you :arg1 ( thing :arg1-of ( know :arg0 i :polarity - )  )
+occupy :arg1 ( man :mod this )  :degree ( much :degree so )  :arg0-of ( cause :arg1 ( raise :arg0 man :arg1 ( head :part-of man )  :polarity - :time ( arrive :arg1 ( prince :mod little )  )  )  )
+room :polarity - :purpose carriage :location here
+and :op2 ( begin :arg1 ( bore :arg1 he :degree little )  :time already )
+say :arg0 fox :arg1 ( so :domain that )
+think :arg0 i :arg1 ( go :arg0 i :arg1 ( way :poss i )  )  :time now
+wait :arg1 i :arg1-of long
+chapter :mod num_0
+possible :arg1 ( guess :arg0 ( prince :mod little )  :arg1 ( contrast :arg1 ( modest :polarity - :domain she :degree too )  :arg2 ( and :op1 ( move :arg0 she :degree so )  :op2 ( excite :arg0 she :degree so )  )  )  :arg1-of ( easy :mod enough )  )
+save :arg0 you :arg1 ( rate-entity :arg1 ( temporal-quantity temporal-quantity_num_0 :unit minute )  :arg2 ( temporal-quantity temporal-quantity_num_1 :unit week )  )  :instrument ( pill :mod this )
+and :op1 ( moisten :arg0 i :arg1 ( temple :poss he )  )  :op2 ( give :arg0 i :arg1 ( water :quant some :purpose drink )  :arg2 he )
+want :arg0 i :arg1 it :polarity - :time anymore
+bring :arg0 amr-unknown :arg1 ( sense :arg0 i :arg1 ( grieve :arg1 i )  :mod this )  :arg2 i :time then
+go-out :arg1 ( cigarette :poss you )
+man :mod little :mod dear
+say :arg0 he :arg1 ( descend :arg0 he :arg1 earth )  :arg2 i :arg1-of instead-of
+amr-unknown
+feel :arg0 i :arg1 ( and :op1 awkward :op2 ( blunder :arg0 i )  )
+say :arg0 ( he :arg0-of ( talk :arg2 he :time ( continue :arg0 he :arg1 ( journey :arg0 he )  )  )  )  :arg1 ( extraordinary :domain grown-up :mod certain :degree altogether )  :arg1-of simple
+pass :arg1 ( temporal-quantity temporal-quantity_num_0 :unit month )  :duration-of ( talk :arg0 we :mod together )
+resemble :arg1 it :arg2 ( time :time-of ( drink :arg0 we :arg1 water )  )
+do :arg0 it :arg1 ( good :polarity - )  :arg2 you :mod at-all
+and :op2 ( take :arg0 he :arg1 i :manner hand )
+say :arg0 ( prince :mod little )  :arg1 ( book :domain amr-unknown :mod big :mod that )
+pour :arg0 ( star :mod all )  :arg1 ( water :arg1-of fresh )  :purpose ( drink :arg0 i :arg1 water )  :direction out
+happy :arg1 i :time then
+mean :arg1 that :arg2 ( write :arg0 i :arg1 ( number :quant-of ( star :poss i )  )  :location ( paper :mod little )  )
+or :op1 ( forget :arg0 he :arg1 ( globe :consist-of glass )  )  :op2 ( escape :arg0 sheep :time ( date-entity dayperiod_date-entity_0 )  :manner ( sound :polarity - :arg1 sheep :mod any )  )  :time ( date-entity dayperiod_date-entity_1 mod_date-entity_2 )
+thing :arg2-of ( muzzle :arg1 ( sheep :poss i )  )
+light :arg0 he :arg1 ( lamp :mod street :poss he )  :arg1-of ( resemble :arg2 ( bring :arg0 he :arg1 ( or :op1 ( star :quant num_0 :mod more )  :op2 flower )  :arg3 live )  )
+say :arg0 i
+cry :arg0 i
+and :op2 ( use :arg0 he :arg1 ( volcano :mod extinct )  :arg2 footstool )
+pass :arg1 ( nobody :degree at-all )  :path ( way :mod this )  :arg2-of ( fortunate :polarity - )  :time ever
+keep :arg1 ( wonder :arg0 i :arg1 ( event :mod amr-unknown :location ( planet :poss he )  )  )  :time now
+possible :arg1 ( and :op1 ( count :arg0 one :arg1 ( and :op1 ( person :quant num_0 :arg0-of ( have-org-role :arg2 king )  )  :op2 ( geographer :quant num_1 )  :op3 ( businessman :quant num_2 )  :op4 ( person :quant num_3 :arg0-of tipple )  :op5 ( man :quant num_4 :mod conceited )  :mod ( grown-up :quant ( about :op1 num_5 )  )  )  :location there )  :op2 ( forget :polarity - :arg0 one :arg1 ( negro :arg1-of ( include :arg2 person )  :arg0-of ( have-org-role :arg2 king )  )  :arg1-of sure )  )
+and :op1 ( come :mode imperative :arg1 you :direction back :time then :purpose ( say :arg0 you :arg1 goodbye :arg2 i )  )  :op2 ( give :arg0 i :arg1 present :arg2 you :manner ( reveal :arg0 i :arg1 secret :arg2 you )  )
+be-temporally-at :arg1 ( disturb :ord ( ordinal-entity ordinal-entity_num_0 )  )  :arg2 ( before :op1 now :quant ( temporal-quantity temporal-quantity_num_1 :unit year )  :time-of ( fall :arg1 ( goose :mod giddy :mod some )  :arg3 ( location :arg1-of ( know :arg0 goodness )  )  )  )
+say :arg0 ( prince :mod little )  :arg1 ( scorn :arg0 ( other :mod all :domain ( and :op1 king :op2 ( man :mod conceit )  :op3 ( person :arg0-of tipple )  :op4 businessman )  )  :arg1 ( man :mod that )  )  :arg2 prince :time ( continue :arg0 prince :arg1 ( journey :arg0 prince )  :extent ( far :degree more )  )
+contrast :arg2 ( worry :arg1 he :time still )
+contrast :arg2 ( cause :polarity - :arg0 ( have :arg0 she :arg1 cold )  :arg1 it )
+say :arg0 he :arg1 ( possible :arg1 ( see :arg0 he :arg1 ( and :op1 ( planet :extent whole )  :op2 ( person :mod all )  )  :source ( mountain :arg1-of ( high :degree equal :compared-to ( mountain :mod this )  )  )  :manner ( glance :quant num_0 )  )  )  :arg2 he
+do :arg0 i :arg1 amr-unknown :arg3 they
+contrast :arg2 animal
+and :op1 ( hoist :arg0 ( i :arg1-of ( content :arg2 ( thing :arg1-of ( achieve :arg0 i )  )  :concession ( and :op1 ( happy :arg1 i )  :op2 ( tire :arg1 i )  )  )  )  :arg1 bucket :arg1-of slow :destination ( edge :part-of well )  )  :op1 ( set :arg0 i :arg1 bucket :arg2 edge )
+clap :arg0 ( prince :mod little )  :arg1 ( hand :part-of prince )
+and :op1 ( body :mod ( heavy :polarity - :mod such )  )  :op2 ( love :arg0 i :arg1 ( listen :arg0 i :arg1 star :time ( date-entity dayperiod_date-entity_0 )  )  )
+location :arg3-of ( come :arg1 i )
+have :polarity - :arg0 you :arg1 ( foot :quant any )  :mod even
+say :arg0 fox :arg1 ( forget :arg0 man :arg1 ( truth :mod this )  )
+star :domain ( well :arg0-of ( have :arg1 ( pulley :mod rust )  )  )  :mod all
+hole :arg1-of ( dig :arg2 sand )  :mod mere :domain ( well :location location_name_0 )
+chapter :mod num_0
+and :op1 ( look :arg0 i :arg1 you :source ( corner :part-of ( eye :part-of i )  )  )  :op2 ( say :arg0 you :arg1 nothing )
+and :op2 ( love :arg0 you :arg1 ( watch :arg0 you :arg1 ( star :location heaven :mod all :arg0-of ( have-rel-role :arg1 you :arg2 friend )  )  )  )
+magnificent :domain it
+forbid :arg0 i :arg1 ( do :arg0 you :arg1 so )  :arg2 you
+say :arg0 he :arg1 ( all-right :domain that :arg1-of ( cause :arg0 ( understand :arg0 child )  )  )
+call-on :arg0 amr-unknown :arg1 i :condition ( call-on :polarity - :arg0 ( and :op1 butterfly :op2 caterpillar )  :arg1 i )
+thing :arg1-of ( beautiful :degree most )  :location ( planet :source-of i )  :domain ( thing :arg1-of flower )
+equal :arg1 ( sum-of :op1 num_0 :op2 num_1 )  :arg2 num_2
+and :op2 ( know :arg0 i :arg1 ( possible :polarity - :arg1 ( bear :arg1 ( think :arg1 ( hear :polarity - :arg1 laugh :time ever :mod ( more :mod any )  )  )  )  )  )
+morning :arg1-of good
+repeat :arg0 ( prince :mod little :arg0-of ( let :polarity - :arg1 ( go :arg0 ( thing :arg1-of ( question :arg0 prince )  )  )  :time ( once :op1 ( ask :arg1 thing )  )  :time ( ever :duration ( thing :arg1-of ( live :arg0 prince )  )  )  )  )  :arg1 ( contrast :arg2 ( mean :arg1 ephemeral :arg2 amr-unknown )  )
+contrast :arg2 ( and :op1 ( village :polarity - :location here )  :op2 ( think :arg0 i :arg1 ( dream :arg0 i )  )  )
+place :mod ( secret :degree such )  :domain ( land :location-of tear )
+and :op1 ( sit-down :arg1 ( prince :mod little )  :location table )  :op2 ( pant :arg0 prince :duration little )
+have :arg0 i :arg1 ( volcano :quant num_0 )
+contrast :arg2 ( silent :domain ( star :mod ( this :mod all )  )  )
+adjust :arg0 she :arg1 ( petal :poss she )  :manner one-by-one
+say :arg0 ( prince :mod little )  :arg1 ( true :arg1 that )
+fault :arg1 i
+say :arg0 he :arg1 ( possible :arg1 ( good :arg1 water :arg2 heart :mod also )  )  :arg2 i :mod mere
+and :op1 ( yawn :arg0 she )  :op2 ( say :arg0 she :arg1 ( ah :mode expressive )  )  :time ( after :op1 ( work :arg0 she :manner ( precise :degree painstaking :mod this :mod all )  )  )
+contrast :arg2 ( thing :quant num_0 :mod extraordinary :time ( draw :arg0 ( i :arg0-of ( forget :arg1 ( add-on :arg0 i :arg1 ( strap :consist-of leather )  :arg2 muzzle )  )  )  :arg1 muzzle :arg2 ( prince :mod little )  )  )
+contrast :arg2 ( possible :arg1 ( find :arg1 ( thing :arg1-of ( look :arg0 they )  )  :location ( or :op1 ( rose :arg1-of single )  :op2 ( water :quant little )  )  )  )
+cause :arg0 ( die :arg1 i :arg1-of ( cause :arg0 ( thirst :arg0 i )  )  :time about-to )
+source :arg1 misunderstand :arg2 word
+have :polarity - :arg0 i :arg1 ( person :arg1-of single :arg0-of explore :location ( planet :poss i )  )
+answer :arg0 king :arg2 ( have-condition :arg1 ( judge :arg0 you :arg1 you )  )
+need :arg1 it :polarity -
+see :arg0 you :arg1 ( obey :arg1 i :manner ( well :degree amr-unknown )  )
+and :op1 ( sit-down :arg1 one :location ( dune :consist-of sand :location desert )  )  :op2 ( see :arg0 one :arg1 nothing )  :op3 ( hear :arg0 one :arg1 nothing )
+opine :arg0 they :arg1 ( subject :domain ( man :mod all )  )
+temporal-quantity :unit day temporal-quantity_num_0
+contrast :arg2 ( seem :arg1 ( precious :degree very :domain ( task :mod all :mod familiar )  )  :arg2 he :time ( date-entity dayperiod_date-entity_0 mod_date-entity_1 :ord ( ordinal-entity :value -1 )  )  )
+awake :arg1 i :degree scarce
+come :arg1 i :purpose ( tell :arg0 i :arg1 ( succeed :arg1 ( work :arg0 i )  :degree ( beyond :op1 ( anything :arg1-of ( hope :arg0 i :arg2-of ( dare :arg1 i )  )  )  )  )  :arg2 he )  :mod just
+believe :polarity - :arg0 i :arg1 anything
+change :arg0 mountain :arg1 ( location :arg2-of ( position :arg1 mountain )  )  :arg1-of ( rare :degree very )
+equal :arg1 num_0 :arg2 that
+contrast :arg2 ( know :arg0 i :arg1 ( go-back :arg1 he :arg2 ( planet :poss he )  )  :arg1-of ( cause :arg0 ( find :arg0 i :arg1 ( body :poss he )  :polarity - :time daybreak )  )  )
+decide :arg0 you :arg1 ( go :arg0 you :direction away )
+contrast :arg2 ( need :arg0 we :arg1 ( other :mod each )  :condition ( tame :arg0 you :arg1 i )  )
+be-located-at :arg2 ( planet :mod another )  :mode interrogative
+say :arg0 ( prince :mod little )  :arg1 ( contrast :arg2 ( cry :arg0 you :time now )  )
+oh :mode expressive
+contrast :arg2 ( answer :polarity - :arg0 she )
+possible :arg1 ( eat :arg0 sheep :arg1 flower )
+disturb :arg0 ( prince :mod little )  :arg1 ( think :arg0 i )  :mod again
+and :op1 ( continue :arg0 he :arg1 ( confide :arg0 he :arg1 ( know :polarity - :arg0 he :arg1 ( thing :manner-of ( understand :arg0 he :arg1 anything )  )  )  )  )
+clean-out :arg0 he :arg1 ( volcano :mod extinct )  :mod too
+say :arg0 fox :arg1 ( that :mod just )
+contrast :arg2 ( possible :polarity - :arg1 ( restrain :arg0 ( prince :mod little :arg0-of ( say :arg1 ( oh :mode expressive )  )  )  :arg1 ( admire :arg0 prince )  )  )
+resemble :arg1 ( color :poss sand )  :arg2 ( color :poss honey )  :time ( rise :arg1 sun )
+repeat :arg0 ( prince :mod little :arg0-of ( let :polarity - :arg1 ( go :arg0 ( thing :arg1-of ( question :arg0 prince )  )  )  :time ( live :arg0 prince )  :time ( ask :arg0 prince :arg1 thing )  :time ever )  )  :arg1 ( amr-unknown :quant num_0 )
+come :arg1 you :arg1-of wrong
+leave :polarity - :arg0 he :arg1 ( desk :poss he )
+contrast :arg2 ( possible :arg1 ( put :arg0 i :arg1 they :arg2 bank )  )
+get-away :arg0 he :source i :manner ( sound :polarity - :arg1 he )
+have :mode interrogative :polarity - :arg0 this :arg1 ( consequence :compared-to ( sum :poss ( gentleman :arg1-of fat :part ( face :arg1-of red )  )  )  :degree more )
+say :arg0 he :arg1 ( tame :mode imperative :polite + :arg0 you :arg1 he )
+fox :domain he :arg1-of ( resemble :arg2 ( fox :quant num_0 :mod other )  )  :mod only
+and :op1 ( contrast :arg2 ( come-up :arg1 ( flower :arg1-of new :source ( seed :arg1-of ( blow :source amr-unknown )  )  )  :time ( day :mod one )  )  )  :op2 ( watch-over :arg0 ( prince :mod little )  :arg1 ( sprout :mod small :mod this :arg1-of ( resemble :polarity - :arg2 ( sprout :mod small :mod ( other :mod any )  :location ( planet :poss prince )  )  )  )  :arg1-of ( close :degree very )  )
+say :arg0 i :arg1 ( concern :arg0 ( matter :domain this )  :arg1 fox :time no-longer )  :arg2 ( man :mod little :poss i :mod dear )
+wait :arg1 i :arg2 you :location here
+person :polarity - :location desert
+think :arg0 ( person :arg0-of pass-by :mod ordinary )  :arg1 ( look :arg0 ( rose :poss i :arg0-of ( belong :arg1 i )  )  :arg1 you :degree just )  :arg1-of sure
+possible :polarity - :arg1 ( say :arg0 he :arg1 ( anything :mod more )  )
+and :op2 ( love :arg0 i :arg1 ( listen :arg0 i :arg1 ( wind :location wheat )  )  )
+ah :mode expressive
+and :op2 ( say :arg0 ( he :degree too )  :arg1 ( nothing :mod more )  :arg1-of ( cause :arg0 ( cry :arg0 he )  )  )
+contrast :arg2 ( know :arg0 ( person :arg1-of ( include :arg2 they )  )  :arg1 ( find :arg0 person :arg1 they :location amr-unknown )  :time ( ever :polarity - )  )
+send :arg0 ( step :mod other )  :arg1 i :arg4 ( underneath :op1 ground )  :arg5 back :manner ( hurry :arg1 i )
+possible :arg1 ( put :arg1 person :arg2 ( square :arg1-of public :arg1-of ( long :arg2 ( distance-quantity distance-quantity_num_0 :unit mile )  )  :arg1-of ( wide :mod ( distance-quantity distance-quantity_num_1 :unit mile )  )  )  :arg1-of easy )  :condition ( stand :arg0 ( person :quant num_0 :arg0-of inhabit :arg2-of ( people :arg1 ( surface :poss it )  )  :mod all )  :arg1-of ( resemble :arg2 ( do :arg0 person :purpose ( assemble :mod public :mod big :mod some )  )  )  :manner ( and :op1 upright :op2 ( crowd :manner together :degree somewhat )  )  )
+say :arg0 king :arg1 ( know :arg0 we :arg1 that :polarity - )  :arg2 he
+resemble :arg1 ( give :arg0 i :arg1 ( bell :mod little :quant great :arg0-of ( know :arg1 laugh )  )  :arg2 you :arg1-of ( instead-of :arg2 ( give :arg0 i :arg1 star :arg2 you )  )  )
+say :arg0 king :arg1 no
+and :op2 ( look :arg0 you :arg1 star :direction up :time ( date-entity dayperiod_date-entity_0 )  )
+say :arg0 geographer :arg1 ( record :arg0 we :arg1 ( thing :arg1-of flower )  :polarity - )
+and :op2 ( hear :arg0 i :arg1 ( say :arg0 he :arg1 ( remember :polarity - :arg0 you :mod then )  )  )
+leave :polarity - :arg0 i :arg1 you
+ah :mode expressive
+demand :mode interrogative :arg0 ( prince :mod little )  :arg1 ( pursue :arg0 they :arg1 ( person :arg0-of ( travel :ord ( ordinal-entity ordinal-entity_num_0 )  )  )  )
+contrast :arg1 nothing :arg2 ( flash :arg1-of yellow :arg1-of ( close :arg2 ( ankle :part-of he )  )  )
+recommend :arg1 ( and :op1 ( look :arg0 one :arg1 they :manner simple )  :op2 ( breathe :arg0 one :arg1 ( fragrance :poss they )  )  )
+and :op1 ( cross :arg0 ( prince :mod little )  :arg1 desert )  :op2 ( meet :arg0 prince :arg1 ( flower :quant num_0 )  :mod only )
+and :op1 ( bad :polarity - :arg1 ( cold :poss i )  :compared-to ( that :mod all )  )  :op2 ( good :arg1 ( air :arg1-of cool :mod night )  :arg2 i )
+monarch :mod absolute :domain he
+say :arg0 he :arg1 ( glad :arg0 ( find :arg0 you :arg1 ( amr-unknown :arg0-of ( cause :arg1 ( have :arg1 ( problem :topic ( engine :poss you )  )  )  )  )  )  :arg1 i )
+step :arg1 he
+say :arg0 ( prince :mod little )  :arg1 ( lucky :polarity - :domain you :time then )
+clean-out :arg0 he :arg1 ( volcano :poss he :arg0-of activity )  :manner careful
+contrast :arg2 ( know :polarity - :arg0 i :manner ( please :arg0 ( grace :poss she :mod all )  :arg1 i )  )
+and :op2 ( silent :domain ( they :mod both )  )
+possible :polarity - :arg1 ( explain :arg0 ( prince :mod little )  :arg1 ( use :arg1 ( and :op1 ( lamp :mod street )  :op2 ( person :arg0-of ( light :arg1 lamp )  )  :location ( relative-position :op1 heaven :location ( planet :arg0-of ( have :polarity - :arg1 ( and :op1 person :op2 house )  )  )  )  )  )  )
+obligate :arg1 one :arg2 ( observe :arg0 one :arg1 ( rite :mod proper )  )
+demand :arg0 he :arg1 ( admire :mode interrogative :arg0 prince :arg1 he :degree ( much :degree very )  :arg1-of real )  :arg2 ( prince :mod little )
+say :arg0 i :arg1 nothing
+pride :arg0 ( flower :domain she )  :degree such
+and :op2 ( change :mode interrogative :arg1 order :time ( since :op1 ( time :mod that )  )  )
+thick :arg1 you :degree ( more :polarity - )  :compared-to finger
+opine :arg0 ( man :mod conceit )  :arg1 ( person :arg0-of admire :domain ( man :mod other :mod all )  )
+want :polarity - :arg0 she :arg1 ( see :arg0 he :arg1 ( cry :arg0 she )  )
+flower :arg0-of ( have :arg1 ( petal :quant num_0 )  )  :mod ( account :polarity - )  :domain it
+say :arg0 ( prince :mod little :arg0-of ( turn :arg1 prince :purpose ( glance :quant num_0 :arg0 prince :arg1 ( side :mod other :part-of planet )  :mod more )  )  )  :arg1 ( contrast :arg2 ( look :arg0 prince :time already )  )
+contrast :arg1 ( step :arg1 i :arg2 back :manner run )  :arg2 ( dig :arg0 i :arg2 ( pocket :poss i )  :arg3 revolver :purpose ( get :arg0 i :arg1 ( revolver :poss i )  )  )
+volcano :quant num_0 :domain ( mountain :mod only :arg1-of ( know :arg0 he :time ever )  )  :arg1-of ( come :arg2 ( up-to :op1 ( knee :part-of he )  )  )
+say :arg0 he :arg1 goodbye :arg2 flower
+sit-down :arg1 he
+fair :polarity - :arg0 ( prince :mod little )
+inquire :arg0 ( prince :mod little )  :arg1 ( permit :mode interrogative :arg1 ( sit-down :arg1 prince )  )  :manner timid :time now
+ah :mode expressive
+do :arg0 you :arg1 amr-unknown
+say :arg0 ( prince :mod little )  :arg1 ( yes :concession ( possible :arg1 ( judge :arg0 prince :arg1 prince :location anywhere )  )  )
+say :arg0 he :arg1 ( beg :arg0 he :arg1 person :arg2 ( excuse :arg0 person :arg1 he :arg2 ( ask :arg0 he :arg2 person )  )  )  :arg2 ( person :arg1-of ( title :arg2 sire )  )
+love :polarity - :arg0 he :arg1 anyone :time ever
+wander :arg0 one :arg1 ( from :op1 truth )  :time ( wish :arg0 one :arg1 ( play :arg0 one :arg1 wit )  )  :degree little :frequency sometimes
+contrast :arg2 ( important :degree more :domain ( she :mod alone )  :compared-to ( rose :mod all :mod other :quant ( multiple :op1 num_0 )  )  :arg1-of ( cause :arg0 ( and :op1 ( water :arg0 i :arg1 she )  :op2 ( put :arg0 i :arg1 she :arg2 ( under :op1 ( globe :consist-of glass )  )  )  :op3 ( shelter :arg0 i :arg1 she :arg2 ( behind :op1 screen )  )  :op4 ( kill :arg0 i :arg1 ( caterpillar :arg2-of ( except :arg1 ( caterpillar :quant ( or :op1 num_1 :op2 num_2 )  :arg1-of ( save :arg0 we :purpose ( become :arg1 caterpillar :arg2 butterfly )  )  )  )  )  :beneficiary she )  :op4 ( listen :arg0 i :arg1 she :time ( or :op1 ( grumble :arg0 she )  :op2 ( boast :arg0 she )  :op3 ( say :arg0 she :arg1 nothing :frequency ( sometimes :time ever )  )  )  )  )  )  )
+say :arg0 ( prince :mod little :arg0-of ( understand :arg1 ( amr-unknown :arg1-of ( talk :arg0 ( man :mod conceit )  )  )  :polarity - )  )  :arg1 ( yes :mode interrogative )
+eat :arg0 sheep :arg1 flower :mode interrogative
+complicate :arg1 that :degree too
+say :arg0 ( prince :mod little )  :arg1 ( know :arg0 ( child :mod only )  :arg1 ( thing :arg1-of ( look :arg0 child )  )  )
+say :arg0 rose :arg1 ( morning :arg1-of good )
+chapter :mod num_0
+temporal-quantity :unit minute temporal-quantity_num_0
+contrast :arg1 ( make :arg0 he :arg1 ( answer :polarity - :arg0 he :arg1 ( question :arg0 i )  )  )  :arg2 ( add :arg0 he :arg1 ( return :arg1 he :arg4 home :time today :mod too )  )
+contrast :arg2 ( and :op1 ( let :arg0 snake :arg1 ( flow :arg1 snake :arg1-of easy :arg1-of ( resemble :arg2 ( spray :arg1-of die-down :poss fountain )  )  :path ( across :op1 sand )  )  :arg1-of ( cause :arg0 ( noise :arg1-of ( make :arg0 i )  )  )  )  :op2 ( disappear :arg1 snake :arg1-of ( hurry :polarity - :mod apparent )  :location ( among :op1 stone )  :arg0-of ( sound :arg3 metallic :arg1-of light )  )  )
+possible :arg1 ( judge :arg0 you :arg1 ( rat :mod old :mod this )  )
+matter :arg1-of ( differ :degree very )  :domain it
+shame :arg0 that :arg1 i :degree little
+laugh :arg0 he :mod again
+nothing
+say :arg0 ( prince :mod little )  :arg1 ( morning :arg1-of good )
+contrast :arg2 ( have :arg0 i :arg1 ( time :quant ( much :polarity - )  )  )
+respond :arg0 ( prince :mod little )  :arg2 ( morning :arg1-of good )  :manner polite :concession ( see :arg0 prince :arg1 nothing :time ( turn :arg1 prince :direction around )  )
+and :op1 ( go :arg0 ( prince :mod little :arg1-of ( abash :arg1-of complete )  )  :arg1 ( look :arg0 prince :arg1 ( can :arg0-of sprinkle :arg0-of ( contain :arg1 ( water :arg1-of fresh )  )  )  )  )
+contrast :arg2 ( cast :arg0 it :arg1 enchant :arg2 ( house :mod that )  )
+continue :arg0 i :arg1 ( walk :arg0 i :direction ( toward :op1 wall )  )
+oh :mode expressive
+fault :arg1 i :arg2 ( know :polarity - :arg0 you :arg1 it :time ( while-away :duration all )  )
+have :arg0 he :arg1 ( volcano :mod extinct :quant num_0 )  :mod also
+leave :arg0 you :arg1 it :arg2 i :mode imperative
+and :op2 ( need :arg0 i :arg1 you :polarity - )
+no :quant num_0
+no
+have :arg0 it :arg1 ( ocean :mod any )  :mode interrogative
+feel :arg0 i :arg1 ( and :op1 ( happy :arg1 i :degree more )  :op2 ( happy :arg1 i :degree more )  )  :time ( advance :arg1 hour )
+recommend :arg1 ( fill :arg0 ( tale :topic claws :arg0-of ( disturb :arg1 i :degree ( much :degree so )  )  :mod this )  :arg1 ( heart :part-of i )  :arg2 ( and :op1 tender :op2 pity )  :mod only )
+reveal :arg0 ( sheep :arg1-of thank )  :arg1 ( secret :poss ( life :poss ( prince :mod little )  )  )  :arg2 i :time ( day :ord ( ordinal-entity ordinal-entity_num_0 )  )  :mod again :time always
+mean :arg1 admire :arg2 ( regard :arg0 you :arg1 i :arg2 ( man :mod ( handsome :degree most )  :arg1-of ( dress :manner ( well :degree most )  )  :mod ( rich :degree most )  :arg1-of ( intelligent :degree most )  :location ( planet :mod this )  )  )
+take :arg0 ( he :arg0-of sigh )  :arg1 ( leave :arg0 he )  :time then
+concern :arg0 ( matter :mod consequence )  :arg1 i
+wall :mod old :consist-of stone :arg1-of ruin :location ( beside :op1 well )
+ask :arg0 he :arg1 ( do :arg0 one :arg1 amr-unknown :arg2 ( make :arg0 one :arg1 ( come :arg1 hat :direction down )  )  )
+say :arg0 he :arg1 ( remain :polarity - :arg1 ( thing :arg1-of do )  :location here )  :arg2 king
+say :arg0 snake :arg1 ( solve :arg0 snake :arg1 ( they :mod all )  )
+and :op1 ( fall :arg1 darkness )  :op2 ( begin :arg0 star :arg1 ( come-out :arg1 star )  )  :time ( trudge :arg0 we :duration ( several :op1 ( temporal-quantity temporal-quantity_num_0 :unit hour )  )  :manner silent )
+say :arg0 he :arg1 ( odd :degree ( very :degree very )  :domain grown-up :mod certain )  :arg2 he :time ( continue :arg0 he :arg1 ( journey :arg0 he )  )
+and :op1 ( think :arg0 you :arg1 ( important :polarity - :domain that )  )
+interrupt :arg0 ( prince :mod little )  :arg2 ( contrast :arg2 ( possible :arg1 ( come :arg1 ( volcano :mod extinct )  :arg2 ( thing :arg1-of live )  :mod again )  )  )
+tire :arg0 ( walk :arg0 i )  :arg1 i
+wait :mode imperative :arg1 you :duration time :location ( under :op1 star :manner exact )
+you :location there
+opine :arg0 i :arg1 ( unique :domain you :location ( world :mod all )  )
+gesture :arg0 king :arg0-of ( take-in :arg1 ( and :op1 ( planet :poss king )  :op2 ( planet :mod other )  :op3 ( star :mod all )  )  )
+say :arg0 he :arg1 ( ah :mode expressive )  :arg2 i :manner mere
+say :arg0 ( prince :mod little :arg0-of ( shrug :arg1 ( shoulder :part-of prince )  :degree slight )  )  :arg1 ( contrast :arg1 ( admire :arg0 i :arg1 you )  :arg2 ( interest :arg0 admire :arg1 you :degree ( much :degree so )  :arg1-of ( cause :arg0 amr-unknown )  )  )
+possible :arg1 ( do :arg0 i )
+twine :arg0 he :arg1 he :arg2 ( ankle :part-of ( prince :mod little )  )  :manner ( resemble :arg2 ( bracelet :consist-of gold )  )
+contrast :arg2 ( answer :arg0 he :arg1 ( plea :poss i )  :polarity - )
+find :arg0 they :arg1 it :polarity -
+say :arg0 ( prince :mod little )  :arg1 ( fox :arg0-of ( have-rel-role :arg1 i :arg2 friend )  )  :arg2 i
+star :quant num_0 :beneficiary you :poss i :arg1-of ( include :arg2 star :mod just )
+contrast :arg2 ( vacation :polarity - :arg0 i :condition ( dance :arg0 ( person :arg0-of hunt )  :time ( any :mod just )  :arg1-of ( cause :arg0 ( resemble :arg1 ( day :mod every )  :arg2 ( day :mod ( other :mod every )  )  )  )  )  :quant any :mod at-all )
+frighten :arg0 that :arg1 i
+need :arg0 you :arg1 ( walk :arg1-of ( slow :degree rather )  :mod only )  :purpose ( be-located-at :arg1 you :arg2 sunshine :time always )
+raise :arg0 they :arg1 chicken :mod also
+become :arg1 they :arg2 ( fashion :mod old )  :time ever :polarity -
+person :domain ( geographer :polarity - )  :arg0-of ( go :purpose ( count :arg0 geographer :arg1 ( and :op1 town :op2 river :op3 mountain :op4 ocean :op5 desert :op6 sea )  )  )
+say :arg0 ( king :arg0-of ( pride :arg2 ( have :arg0 king :arg1 subject )  :degree very )  )  :arg1 ( go :polarity - :mode imperative :arg0 you )
+temporal-quantity :unit month temporal-quantity_num_0
+say :arg0 ( prince :mod little )  :arg1 ( look :arg0 prince :arg1 man )
+it :location here
+wish :arg0 she :arg1 ( appear :arg1 she :manner ( radiate :arg0 she :arg1 ( beautiful :arg1 she )  :degree full :mod only )  )
+and :op2 ( light :arg0 he :arg1 ( lamp :poss he )  :mod again )
+strange :degree very :domain ( planet :ord ( ordinal-entity ordinal-entity_num_0 )  )
+have-concession :arg1 ( answer :arg0 he :arg1 i :polarity - )
+respond :arg0 flower :arg1 ( beautiful :polarity - :mode interrogative :arg1 flower )  :manner sweet
+consistent :polarity - :arg1 flower :degree so
+erupt :arg1 volcano :arg1-of ( resemble :arg2 ( fire :location chimney )  )
+disappoint :arg1 ( prince :mod little )
+nobody :location here :arg1-of judge
+feel :arg0 ( prince :mod little )  :arg1 ( love :arg0 prince :arg1 ( person :arg0-of ( light :arg1 lamp )  :mod this :arg1-of ( faithful :arg2 ( thing :arg2-of ( order :arg1 person )  )  )  )  )  :time ( watch :arg0 prince :arg1 person )
+and :op2 ( understand :arg0 i :arg1 ( thing :arg1-of ( look :arg0 he )  )  )
+there :location-of i :time ( date-entity dayperiod_date-entity_0 mod_date-entity_1 )
+equal :arg1 ( sum-of :op1 num_0 :op2 num_1 )  :arg2 num_2
+and :op1 ( take :arg0 i :arg1 he :arg3 ( arm :part-of i )  )  :op2 ( rock :arg0 i :arg1 he )
+know :arg0 he :arg1 ( simplify :arg1 world :beneficiary king )  :polarity -
+rest :arg1 ( authority :arg1-of accept )  :arg2 reason :mod first-of-all
+say :arg0 i :arg1 nothing
+and :op1 ( be-located-at :arg1 i :arg2 ( relative-position :op1 wall :quant ( distance-quantity distance-quantity_num_0 :unit meter :mod only )  )  )  :op2 ( see :arg0 i :arg1 nothing :mod still )
+ask :arg0 ( prince :mod little )  :arg1 ( rite :domain amr-unknown )
+look :arg0 you :arg1 chicken :mode interrogative
+and :op1 ( answer :arg0 i :arg2 ( thing :ord ( ordinal-entity ordinal-entity_num_0 )  :arg1-of ( come :arg4 ( head :part-of i )  )  :domain ( use :polarity - :arg1 thorn :arg2 anything )  )  )
+recommend :arg1 ( guess :arg0 i :arg1 ( affection :mod all :arg1-of ( lie :arg2 ( behind :op1 ( strategem :mod little :mod poor :poss she )  )  )  )  )
+remember :arg0 you :arg1 ( good :arg1 it :degree so )
+and :op1 ( concern :arg0 ( matter :mod consequence )  :arg1 i )  :op2 ( accurate :domain i )
+come :arg1 ( prince :mod little )  :direction back :time ( day :mod next )
+want :arg0 i :arg1 ( tire :arg0 he :arg1 he :instrument rope )  :polarity -
+go :mode interrogative :arg0 one :purpose ( see :arg0 one :arg1 it )
+and :op2 ( order :arg0 geographer :arg1 ( inquire :arg1 ( character :arg1-of moral :poss ( person :arg0-of explore :mod that )  )  )  :condition ( interest :arg1 geographer :arg2 ( thing :arg1-of recall :poss ( person :arg0-of explore :mod any :arg1-of ( include :arg2 they )  )  )  )  )
+contrast :arg2 ( wait :arg1 i :arg2 ( condition :mod favorable )  :arg1-of ( cause :arg0 ( science :domain ( government-organization :arg0-of govern )  :poss i )  )  )
+contrast :arg2 ( know :arg0 one :polarity - :time ever )
+obey :arg0 star :arg1 you :mode interrogative
+know :arg0 i
+and :op1 ( take-up :arg0 ( prince :mod little )  :arg1 converse :mod again :time at-last )  :op2 ( be-located-at :arg1 man :arg2 amr-unknown )
+flush :arg1 ( prince :mod little )  :mod again
+know :arg0 i :arg1 ( sound :arg1 ( step :arg1-of ( differ :arg2 ( step :mod ( other :mod all )  )  )  )  )
+object :mod little :arg0-of glitter
+force :arg0 she :arg1 ( cough :arg0 she )  :time then :degree ( more :degree little )  :purpose ( suffer :arg0 he :arg1 remorse :arg1-of have-concession )
+stand :arg1 he :arg2 ( before :op1 ( garden :location-of ( bloom :arg0 rose )  )  )
+realize :arg0 i :arg1 ( event :mod extraordinary )  :arg1-of clear
+and :op1 ( drink :arg0 he )  :op2 ( close :arg0 he :arg1 ( eye :part-of he )  )
+exchange :domain it
+contrast :arg2 ( person :polarity - :domain i :arg0-of explore )
+contrast :arg2 ( resemble :arg1 it :arg2 ( shell :arg1-of abandon :mod old )  )
+serious :arg1 he :arg2 ( word :mod ( important :polarity - )  )  :arg0-of ( make :arg1 ( happy :polarity - :arg1 he :degree very )  )
+and :op1 ( breathe :arg0 he :arg1 ( sigh :manner regret )  )  :op2 ( say :arg0 he :arg1 ( person :mod only :arg1-of ( include :arg2 ( they :mod all )  )  :domain ( man :mod that )  :arg2-of ( make :arg0 he :arg1 ( have-rel-role :arg0 person :arg1 he :arg2 friend )  :arg1-of possible )  )  :arg2 he :mod again )
+exclaim :arg0 king :arg1 ( here :location-of subject )  :time ( see :arg0 king :arg1 ( prince :mod little :arg1-of come )  )
+have :arg0 it :arg1 ( reputation :arg1-of good )
+depend :arg0 ( live :arg0 he )  :arg1 ( justice :poss you )
+and :op1 ( live :arg0 i :location ( house :mod old )  :time ( boy :mod little :domain i )  )  :op2 ( tell :arg0 legend :arg1 ( bury :arg1 treasure :location house )  :arg2 we )
+have :arg0 i :arg1 ( sheep :poss you )
+no :mod ( oh :mode expressive )
+echo :arg0 she :arg1 ( man :mode interrogative )
+and :op1 ( resemble :arg1 i :arg2 ( i :arg1-of die )  )  :op2 ( true :polarity - :arg1 resemble )
+be-temporally-at :arg1 that :arg2 ( about :op1 ( date-entity :time 19:40 dayperiod_date-entity_0 mod_date-entity_1 )  )
+and :op2 ( sense :arg0 i :arg1 ( sorrow :arg0 i )  :mod queer :mod ( again :frequency num_0 )  :arg1-of ( cause :arg0 ( amr-unknown :arg1-of ( understand :polarity - :arg0 i )  )  )  )
+and :op1 ( have :arg0 they :arg1 gun )  :op2 ( hunt :arg0 they )
+have :arg0 she :arg1 ( thorn :quant num_0 :arg1-of ( use :polarity - )  )  :purpose ( protect :arg0 thorn :arg1 she :arg2 ( world :mod all )  )
+have :arg0 i :arg1 ( time :purpose ( loaf :arg0 i )  )  :polarity -
+raise :arg0 ( man :mod conceit )  :arg1 ( hat :poss man )  :subevent-of ( salute :arg0 man :manner modest :instrument hat )
+describe :mode imperative :arg0 you :arg1 ( planet :source-of you )  :beneficiary i
+say :arg0 switchman :arg1 ( one :arg1-of ( same :polarity - )  :domain this )
+see :arg0 one :arg1 ( thing :mod ( sort :mod all )  )  :location location_name_0
+begin :arg0 he :arg1 ( clap :arg0 he :arg1 ( hand :part-of he )  :manner ( clap :arg0 he :arg1 ( hand :quant num_0 :part-of he )  :arg2 ( hand :part-of he :arg1-of ( differ :arg2 hand )  )  )  )  :mod again
+look :arg0 they :arg1 amr-unknown
+say :arg0 ( prince :mod little )  :arg1 ( time :arg1-of ( waste :arg0 prince )  :beneficiary ( rose :poss prince )  )  :purpose ( remember :arg0 prince :arg1-of sure )
+and :op1 ( appear :arg1 ( prince :mod little )  :location earth )  :op2 ( disappear :arg1 prince )  :location here
+tell :polarity - :arg0 i :arg1 ( story :mod this )  :time ever :time yet
+chapter :mod num_0
+cause :arg0 ( own :arg0 i :arg1 ( and :op1 volcano :op2 flower )  )  :arg1 ( use :beneficiary ( and :op1 ( volcano :poss i )  :op2 ( flower :poss i )  )  :degree some )
+reply :arg0 ( person :arg0-of tipple )  :arg2 ( drink :arg0 person )  :manner lugubrious
+make :arg0 i :arg1 ( have-org-role :arg0 you :arg2 minister )
+say :arg0 ( gentleman :mod old )  :arg1 ( geographer :domain gentleman )  :arg2 he
+say :arg0 ( prince :mod little )  :arg1 ( morning :arg1-of good )
+and :op1 ( travel :arg0 he :quant ( much :mod so )  )  :op2 ( travel :arg0 he :arg1 ( far :mod so )  )  :time already
+have :arg0 ( prince :mod little )  :arg1 ( idea :topic ( matter :mod consequence )  :arg1-of ( differ :arg2 ( idea :poss grown-up )  :degree very )  )
+do :polarity - :arg0 he :arg1 anything :time ( live :arg0 he )  :time ever :arg2-of ( except :arg1 ( add-up :arg0 he :arg1 figure )  )
+true :arg1 that
+tiny :domain planet
+opine :arg0 ( businessman :poss i )  :arg1 ( wealth :domain they )
+room :poss it :beneficiary ( person :quant num_0 )  :polarity -
+cause :arg0 ( need :arg0 you :arg1 ( swallow :arg1 ( rate-entity :arg1 ( pill :quant num_0 )  :arg3 ( temporal-quantity temporal-quantity_num_0 :unit week )  )  )  :mod only )  :arg1 ( feel :polarity - :arg0 you :arg1 ( need :arg0 you :arg1 ( drink :arg0 you :arg1 anything )  )  )
+last :arg1 ( temporal-quantity temporal-quantity_num_0 :unit day )  :arg2 ( temporal-quantity temporal-quantity_num_1 :unit minute )  :mod only :location ( live :arg0 you )
+contrast :arg2 ( absurd :polarity - :domain he :compared-to ( and :op1 king :op2 ( man :mod conceit )  :op3 businessman :op4 ( person :arg0-of tipple )  )  :degree equal )
+and :op1 ( alike :arg1 ( chicken :mod all )  :mod just )  :op2 ( alike :arg1 ( man :mod all )  :mod just )
+and :op1 ( worry :arg1 i )  :op2 ( jump :arg0 i :direction about )  :time ( date-entity :time 4:00 )  :time already
+and :op2 ( go :arg0 ( prince :mod little )  :direction away )
+sit-down :arg1 i :location ( beside :op1 he )
+and :op1 ( look :arg0 i :arg1 ( and :op1 ( forehead :part-of he :arg1-of pale )  :op2 ( eye :arg1-of close :part-of he )  :op3 ( lock :consist-of hair :arg1-of ( tremble :arg1-of ( cause :arg0 wind )  )  :part-of he )  :arg1-of ( light :arg0 moon )  )  )  :op2 ( say :arg0 i :arg1 ( see :arg0 i :arg1 shell :mod only :location here )  :arg2 i )
+opine :arg0 you :arg1 ( unique :domain i :location ( world :mod all )  )
+object :arg0 ( prince :mod little )  :arg1 ( tiger :polarity - :location ( planet :poss prince )  )
+contrast :arg2 ( speak :arg0 you :arg1 riddle :time always :purpose amr-unknown )
+sound :polarity - :mod ( any :mod even )  :arg1-of ( cause :arg0 sand )
+salute :arg0 he :arg1 ( person :arg0-of ( light :arg1 lamp )  )  :manner respect :time ( arrive :arg1 he :arg4 planet )
+contrast :arg2 ( question :arg0 i :arg1 ( stroll :mode interrogative :arg0 you :manner ( alone :degree all :arg1-of ( resemble :arg2 that )  )  :direction along :location ( relative-position :op1 ( region :arg1-of inhabit :mod any )  :quant ( distance-quantity distance-quantity_num_0 :unit mile )  )  :time ( meet :arg0 i :arg1 you :ord ( ordinal-entity ordinal-entity_num_1 )  :time ( before :op1 now :quant ( temporal-quantity temporal-quantity_num_2 :unit week )  )  :time ( date-entity dayperiod_date-entity_0 )  )  :arg1-of ( cause :polarity - :arg0 chance )  )  )
+that :arg1-of ( cause :arg0 amr-unknown )
+amuse :arg0 that :degree so
+let :polarity - :arg0 ( prince :mod little )  :arg1 ( go :arg1 ( thing :arg1-of ( question :arg0 prince )  )  )  :time ( once :op1 ( ask :arg0 prince :arg1 question )  )
+opine :arg0 ( person :mod other )  :arg1 ( light :mod little :location sky :mod only :domain they )
+seem :arg1 ( and :op1 ( perplex :arg1 fox )  :op2 ( curious :arg1 fox :degree very )  )
+guide :arg0 star :arg1 ( some :arg0-of travel )
+yes
+have :mode interrogative :arg0 it :arg1 ( mountain :mod any )
+and :op2 ( understand :polarity - :arg0 grown-up :arg1 ( this :arg1-of ( matter :mod ( important :mod ( much :degree so )  )  )  )  :time ever )
+have :arg0 i :arg1 ( and :op1 ( rest :purpose relax :part-of day )  :op2 ( rest :purpose sleep :part-of night )  )
+obey :arg0 they :manner instant
+have :arg0 i :arg1 ( reason :arg1-of good :arg0-of ( cause :arg1 ( believe :arg0 i :arg1 ( rat :location ( somewhere :location ( planet :poss i )  )  :mod old )  )  )  )
+chapter :mod num_0
+see :arg1 ( thing :mod ( important :degree most )  )  :arg1-of ( possible :polarity - )
+and :op1 ( make :arg0 i :arg1 present :arg3 you )
+creature :arg1-of weak :domain flower
+occupy :arg0 man :arg1 ( place :mod ( small :degree very )  :location location_name_0 )
+turn :arg1 ( face :part-of he )  :arg2 ( red :arg1 face )  :arg3 ( white :arg1 face )  :time ( continue :arg0 he :arg1 ( suffice :arg0 love :arg1 ( make :arg0 love :arg1 ( happy :arg1 someone )  :arg1-of ( cause :arg0 ( look :arg0 someone :arg1 star :mod just )  )  )  :condition ( love :arg0 someone :arg1 ( flower :part ( blossom :quant num_0 :mod just :arg1-of ( grow :location ( star :mod all :quant ( multiple :op1 num_1 )  )  )  :arg1-of single )  )  )  )  )
+use :arg0 i :arg1 wheat :polarity -
+say :arg0 snake :arg1 ( large :domain location_name_0 )
+naive :degree so :domain she
+trust :arg0 you :arg2 i :arg1-of ( know :arg0 i )
+and :op1 ( have :arg0 you :arg1 ( bell :quant num_0 :mod little )  )  :op2 ( have :arg0 i :arg1 ( spring :quant num_1 :source-of ( water :arg1-of fresh )  )  )
+understand :arg0 i :arg1 ( answer :mod this )  :polarity - :concession-of ( say :arg0 i :arg1 nothing )
+ready :arg1 ( everything :example ( and :op1 pulley :op2 bucket :op3 rope )  )  :arg2 ( use :arg1 everything )
+contrast :arg2 ( and :op1 ( man :polarity - :domain he )  :op2 ( mushroom :domain he )  )
+possible :arg1 ( rule :arg0 king :arg1 amr-unknown :arg1-of real )
+mean :arg1 ephemeral :arg2 amr-unknown
+and :op2 ( true :arg1 that )
+stir :arg1 geographer :arg3 excite :manner sudden
+contrast :arg2 ( consequence :domain it :mod ( great :polarity - )  )
+try :arg0 you :arg1 ( say :arg0 you :arg1 amr-unknown )
+contrast :arg2 wind
+say :arg0 he :arg1 ( morning :arg1-of good )
+contrast :arg1 ( and :op1 ( stop :arg1 i )  :op2 ( tear :arg1 ( heart :part-of i )  :mod asunder )  )  :arg2 ( understand :polarity - :arg0 i :mod still )
+cause :arg1 ( tame :arg0 ( prince :mod little )  :arg1 fox )
+planet :ord ( ordinal-entity ordinal-entity_num_0 )  :domain location_name_0 :arg1-of cause
+beg :arg0 i :arg1 you :arg2 ( excuse :arg0 you :arg1 i )
+sweet :arg1 it :degree equal :compared-to ( food-dish :mod festival :mod some :arg1-of special :arg1-of treat )
+oh :mode expressive
+contrast :arg2 ( see :arg0 he :arg1 ( nothing :arg2-of ( except :arg1 ( peak :consist-of rock :arg1-of ( sharpen :manner ( resemble :arg1 peak :arg2 needle )  )  )  )  )  )
+answer :arg0 i :polarity -
+contrast :arg2 ( small :degree too :domain ( planet :poss he )  :mod indeed )
+say :arg1 ( entire :polarity - )
+suffer :arg0 you
+seem :arg1 ( beautiful :arg1 they :degree very )
+thing :arg1-of ( promise :arg0 i )  :domain amr-unknown
+multi-sentence :snt1 ( hesitate :arg0 he :mod still :degree little )  :snt2 ( get :arg1 he :arg2 up :time then )
+and :op1 ( make :arg0 he :arg1 ( noise :arg1-of ( resound :arg2 ( all-over :op1 place )  )  :arg0-of ( frighten :degree most )  )  )  :op1 ( mistake :quant num_0 :arg0 i :arg1 ( add :arg0 i )  )
+inhabit :arg0 ( person :arg0-of tipple )  :arg1 ( planet :mod next )
+say :arg0 ( prince :mod little )  :arg1 ( entertain :arg0 this :degree more :compared-to ( visit :arg1 king )  )  :arg2 prince
+say :arg0 switchman :arg1 ( know :polarity - :arg0 ( person :arg0-of ( engineer :arg1 locomotive )  :mod even )  :arg1 that )
+say :arg0 ( person :arg0-of ( light :arg1 lamp )  )  :arg1 ( lucky :domain person :polarity - )
+reply :arg0 i
+and :op1 ( look :arg0 ( ear :part-of ( fox :poss you )  )  :arg1 horn :degree little )  :op2 ( long :arg1 ear :degree too )
+and :op1 num_0 :op2 ( possible :arg1 ( stop :arg0 i )  :polarity - )
+yawn :arg0 ( prince :mod little )
+regulate :arg1 ( move :arg0 ( army :mod this )  :arg1-of ( resemble :arg2 ( move :arg0 ( ballet :subevent-of opera )  )  )  )
+know :arg0 i
+person :mode interrogative :polarity - :location location_name_0
+and :op1 ( cram :arg1 ( robe :mod ermine :mod magnificent :poss king )  :arg2 ( planet :extent entire )  )  :op2 ( obstruct :arg0 robe :arg1 planet )  :concession ( look :arg0 ( prince :mod little )  :arg1 ( place :purpose ( sit-down :arg1 prince )  )  :location everywhere )
+say :arg0 geographer :arg1 ( well :mode interrogative )  :manner expect
+chapter :mod num_0
+wish :polarity - :arg0 ( prince :mod little :arg0-of ( complete :arg1 ( prepare :arg0 prince :arg2 ( depart :arg0 prince )  )  :time now )  )  :arg1 ( grieve :arg0 prince :arg1 ( monarch :mod old )  )
+and :op2 ( cause :arg0 ( own :arg1 star )  :arg1 ( good :arg1 amr-unknown :arg2 you )  )
+contrast :arg2 ( use :polarity - :arg0 star :arg1 you )
+and :op2 ( sit-down :arg1 he :arg1-of ( cause :arg0 ( fear :arg0 he )  )  )
+look :mode imperative :arg0 you :arg1 it :manner careful :purpose ( recognize :arg0 you :arg1 it :arg1-of ensure :condition ( travel :arg0 you :arg4 ( desert :location location_name_0 )  :time ( day :mod some )  )  )
+exemplify :arg0 ( require :arg0 one :arg1 ( bring :arg1 ( stone :mod large )  :direction back :source mountain )  :condition ( discover :arg1 ( mountain :mod large )  :arg1-of question )  )
+ah :mode expressive
+and :op1 ( cause :arg0 ( waste :arg0 they :arg1 ( time :poss they )  :arg1-of ( cause :arg0 ( doll :mod rag )  )  )  :arg1 ( become :arg1 doll :arg2 ( important :arg1-of ( opine :arg0 they )  :degree very )  )  )  :op2 ( cry :arg0 they :condition ( take-away :arg0 anybody :arg1 doll :source they )  )
+snake :mod ( creature :mod malicious )
+say :arg0 he :arg1 ( and :op1 ( annoy :arg1 she :degree ( much :degree very )  )  :op2 ( cough :arg0 she :manner ( dreadful :degree most )  )  :op3 ( pretend :arg0 she :arg1 ( die :arg1 she )  :purpose ( avoid :arg0 she :arg1 ( laugh :arg2 she )  )  )  :condition ( see :arg0 she :arg1 that )  )  :arg2 he
+seat :arg1 ( he :arg1-of ( clad :arg2 ( and :op1 ( purple :mod royal )  :op2 ermine )  )  )  :arg2 ( throne :arg1-of simple :mod majesty )
+hear :arg0 i :arg1 he :time ( date-entity dayperiod_date-entity_0 )
+and :op1 ( embarrass :arg1 rose :degree ( much :degree very )  )
+come :arg1 ( turn :poss ( person :arg0-of ( light :arg1 lamp )  :location location_name_0 )  :time ( after :op1 ( turn :poss ( person :arg0-of light :location location_name_1 )  :time ( after :op1 ( turn :poss ( person :arg0-of light :location ( and :op1 location_name_2 :op2 location_name_3 )  )  :time ( after :op1 ( turn :poss ( person :arg0-of light :location ( and :op1 location_name_4 :op2 location_name_5 )  )  )  )  )  )  )  )  )
+belong :arg0 diamond :arg1 you :condition ( find :arg0 you :arg1 ( diamond :arg0-of ( belong :arg1 nobody )  )  )
+say :arg0 he :arg1 ( object :arg1-of ( include :arg2 ( object :mod little :mod that :location sky :arg1-of ( see :arg0 one :frequency sometimes )  )  )  :quant ( multiple :op1 num_0 )  )
+fancy :arg0 they :arg1 ( important :domain they :degree equal :compared-to baobab )
+come :arg1 she :time-of ( seed :domain she )
+walk :arg0 you :time ( want :arg0 you :arg1 ( rest :arg1 you )  )  :arg0-of ( cause :arg1 ( last :arg1 day :arg2 ( temporal-quantity :degree equal :compared-to ( like :arg0 you )  )  )  )
+go-on :arg0 she :arg1 ( contrast :arg1 ( fear :polarity - :arg0 she :arg1 tiger :degree at-all )  :arg2 ( abhor :arg0 she :arg1 draft )  )
+say :arg0 he :arg1 ( animal :mod funny :domain you )  :time at-last
+try :mode imperative :arg0 you :arg1 ( happy :arg1 you )
+contrast :arg2 ( laugh :arg0 he :manner light )
+have :arg0 he :arg1 ( air :mod magnificence :domain authority )
+exact
+live :arg0 ( and :op1 ( man :arg1-of ( charge :arg2 ( lamp :arg1-of single :location location_name_0 )  )  :mod only )  :op2 ( colleague :poss man :arg0-of ( responsible :arg1 ( lamp :arg1-of single )  :location location_name_1 )  )  :mod ( person :quant num_0 :mod this :mod only )  )  :arg3-of ( free :arg1 and :arg2 ( and :op1 toil :op2 care )  )  :arg1-of ( cause :arg0 ( busy :arg1 and :frequency ( rate-entity :arg1 num_1 :arg2 ( temporal-quantity temporal-quantity_num_0 :unit year )  )  )  )
+think :mode imperative :arg0 you :arg1 ( wonderful :arg1 ( tame :arg0 you :arg1 i )  :degree amr-unknown )
+and :op2 ( laugh :arg0 he :mod again )
+say :arg0 he :arg1 ( order :arg0 he :arg1 ( person :arg0-of ( have-org-role :arg2 general )  )  :arg2 ( change :arg0 person :arg1 person :arg2 ( bird :mod sea )  )  :arg1-of ( obey :polarity - :arg0 person )  :condition-of ( fault :polarity - :arg1 person )  )  :arg0-of exemplify
+bloom :arg0 flower :location ( star :mod all )
+eat :arg0 sheep :arg1 they :duration ( multiple :op1 ( temporal-quantity temporal-quantity_num_0 :unit year )  )  :arg1-of have-concession
+realize :arg0 businessman :arg1 ( hopeful :polarity - :arg1 ( leave :arg1 ( peace :domain businessman )  )  :time ( until :op1 ( answer :arg0 businessman :arg1 ( question :arg1 this )  )  )  )  :manner sudden
+and :op2 ( eat :polarity - :arg0 tiger :arg1 weed :mod anyway )
+and :op2 ( hurry :polarity - :mode imperative :polite + :arg0 you :arg1 you :condition ( come-upon :arg0 you :arg1 ( spot :mod this )  )  )
+and :op2 ( find :arg0 i :arg1 well :time daybreak :time ( walk :arg0 i :mod on :manner so )  )
+and :op1 ( secret :poss i :arg1-of ( simple :degree very )  :domain ( and :op1 ( possible :arg1 ( see :arg0 one :arg2-of right :instrument heart )  :mod only )  :op2 ( possible :polarity - :arg1 ( see :arg0 one :arg1 ( thing :mod essential )  :instrument eye )  )  )  :time now )
+reply :arg0 i :arg2 ( so :domain that )
+come :arg1 ( turn :arg1 ( person :source ( and :op1 location_name_0 :op2 location_name_1 )  :arg0-of ( light :arg1 lamp )  )  )  :time first
+say :arg0 switchman :arg1 ( satisfy :arg1 no-one :time ever :location no-one )
+ah :mode expressive
+say :arg0 i
+thing :arg0-of ( cause :arg1 ( note :arg0 geographer :arg1 ( mountain :quant num_0 :location ( place :location-of ( mountain :quant num_1 :mod only )  )  )  :time then )  )
+say :arg0 i :arg1 ( tell :mode imperative :arg0 you :arg1 ( dream :arg0 i :arg1 ( and :op1 ( affair :arg1 snake :arg2 this )  :op2 ( meet :location place )  :op3 star )  :arg1-of bad :mod only )  :arg2 i )
+say :arg0 king :arg1 everything :arg1-of ( simple :mod magnificence )
+say :arg0 snake :arg1 ( pity :arg0 snake :arg1 you :arg1-of ( cause :arg0 ( weak :arg1 you :degree so :location ( location_name_0 :consist-of granite :mod this )  )  )  )
+look :arg0 we :arg1 well :mode imperative
+contrast :arg2 ( foolish :domain you :degree equal :compared-to i )
+and :op2 ( look :arg0 i :arg1 ( across :op1 ( ridge :consist-of sand :arg1-of ( stretch-out :location ( before :op1 we )  )  :arg1-of ( light :arg0 moon )  )  )  :manner ( say :polarity - :arg0 i :arg1 ( anything :mod more )  )  )
+have :arg0 i :arg1 ( claw :part-of i )
+add :arg0 ( prince :mod little )  :arg1 ( beautiful :arg1 desert )
+let :arg0 i :arg1 ( drop :arg1 ( tool :poss i )  :arg3 ( hand :part-of i )  )
+have-concession :arg1 ( have :arg0 he :arg1 ( thing :degree more :mod some :arg1-of question )  :mod still )
+say :arg0 ( prince :mod little )  :arg1 ( excuse :mode imperative :polite + :arg0 you :arg1 i )
+contrast :arg2 ( come :arg1 ( think :arg1 ( true :arg1 ( have :polarity - :arg0 they :arg1 ( poison :purpose ( bite :ord ( ordinal-entity ordinal-entity_num_0 )  )  :quant more )  )  :purpose ( reassure :arg1 he )  )  )  )
+and :op2 ( cause :arg0 ( rich :domain you )  :arg1 ( good :arg1 amr-unknown :arg2 you )  )
+gaze :arg0 ( prince :mod little )  :arg1 they
+cast :arg0 she :arg1 ( and :op1 ( fragrance :poss she )  :op2 ( thing :arg1-of ( radiate :arg0 she )  )  )  :arg2 i
+nothing :domain you :time as-yet
+call :arg0 king :arg1 ( make :arg0 king :arg1 ( have-org-role :arg0 you :arg1 king :arg2 ambassador )  )  :manner hasty
+order :arg0 i :arg1 you :arg2 ( yawn :arg0 you )
+say :arg0 i :arg1 num_0
+hum :mode expressive
+yes
+contrast :arg2 ( make :arg0 i :arg1 ( have-rel-role :arg0 he :arg1 i :arg2 friend )  :arg0-of ( cause :arg1 ( unique :domain he :time now :location ( world :extent all )  )  )  )
+feel :arg0 i :arg1 ( freeze :arg0 ( sense :arg0 i :arg1 ( something :arg1-of ( repair :arg1-of ( possible :polarity - )  )  )  )  :arg1 i )  :mod ( again :frequency num_0 )
+have :arg0 you :arg1 ( sunset :poss you )
+matter :arg0-of ( have :arg1 consequence )
+possible :polarity - :arg1 ( help :arg0 i :arg1 it )
+realize :arg0 he :arg1 ( close :arg1 he :arg2 ( tear :arg1 he )  :degree very )  :time ( and :op1 ( water :arg0 he :arg1 flower :ord ( ordinal-entity :value -1 )  )  :op2 ( prepare :arg0 he :arg1 he :arg2 ( place :arg0 he :arg1 flower :arg2 ( under :op1 ( globe :consist-of glass :poss flower :arg2-of ( shelter :arg0 he :arg1 flower )  )  )  )  )  )
+order :arg2 amr-unknown
+say :arg0 ( person :arg0-of ( light :arg1 lamp )  )  :arg1 ( funny :polarity - :domain it :degree at-all )
+pride :arg0 i :arg1 ( baobab :poss i )  :degree so
+look :arg0 he :arg2-of ( serious :degree very )  :arg1-of ( resemble :arg2 ( someone :arg1-of ( lose :direction ( away :mod far )  )  )  )
+and :op1 ( come :arg1 i :arg2 ( journey :arg0 i :arg1-of long )  )  :op2 ( sleep :polarity - :arg0 i )
+say :arg0 flower :arg1 goodbye
+fly :mode interrogative
+see :frequency num_0 :arg0 flower :arg1 ( pass :arg0 caravan )
+contrast :arg2 ( require :arg0 one :arg1 ( furnish :arg0 person :arg1 prove )  :arg2 ( person :arg0-of explore )  )
+pardon :arg0 you :arg1 he :frequency ( occasion :quant each )  :arg1-of ( cause :arg0 ( obligate :arg2 ( treat :arg1 he :manner thrift )  )  )
+have-concession :arg2 ( obligate :arg1 i :arg2 ( endure :arg1 i :arg2 ( present :arg1 ( caterpillar :quant ( or :op1 num_0 :op2 num_1 )  )  )  :condition ( wish :arg0 i :arg1 ( acquaint :arg1 i :arg2 butterfly )  )  )  )
+look :arg0 ( they :mod all )  :arg1 ( flower :poss he )
+multi-sentence :snt1 ( have :arg0 they :arg1 ( ring :quant num_0 :mod only :consist-of petal )  )  :snt2 ( take-up :polarity - :arg0 they :arg1 room :degree at-all )  :snt3 ( trouble :polarity - :arg0 they :arg1 anybody )
+pass :arg1 year :time ( since :op1 ( see :arg0 i :arg1 ( anyone :arg0-of yawn )  )  )
+repeat :arg0 ( prince :mod little )  :arg1 ( possible :polarity - :arg1 ( see :arg1 ( thing :mod essential )  :instrument eye )  )  :purpose ( remember :arg0 prince :arg1 possible :arg1-of sure )
+look :arg0 ( i :mod too )  :arg1 star
+say :arg0 ( prince :mod little )  :arg1 ( hurry :arg1 they :degree great )
+reply :arg0 businessman :arg2 ( administer :arg0 businessman :arg1 they )
+contrast :arg2 ( worry :arg1 he )
+say :arg0 ( prince :mod little )  :arg1 ( begin :arg0 i :arg1 ( understand :arg0 i )  )
+own :arg0 i :arg1 they
+contrast :mode expressive :arg2 ( geographer :domain you )
+say :arg0 ( person :arg0-of merchandise )  :arg1 ( morning :arg1-of good )
+learn :arg0 i :arg1 ( know :arg0 i :arg1 ( flower :mod this )  :arg2-of ( good :arg1 i :degree more )  )  :time soon
+want :arg0 i :arg1 ( get :arg0 i :arg2 ( relative-position :op1 wall :direction down )  )
+look :arg0 i :arg1 ( have-manner :arg2 suffer )
+mean :arg1 admire :arg2 amr-unknown
+drink :arg0 i :arg1 water
+think :arg0 i :arg1 ( tame :arg0 she :arg1 i )
+say :arg0 geographer :arg1 ( same :arg1 ( extinct :domain volcano )  :arg2 ( live :arg0 volcano )  :arg3 we )
+and :op1 ( sputter :arg0 he :degree little )  :op2 ( seem :arg1 ( vex :arg1 he )  )
+and :op1 ( patent :arg0 you :arg1 idea )  :op2 ( belong :arg0 idea :arg1 you )  :condition ( get :arg0 you :arg1 idea :time ( before :op1 ( anyone :mod else )  )  )
+amr-unknown :quant ( multiple :op1 num_0 )
+say :arg0 i :arg1 ( and :op1 ( charm :arg0 ( memory :poss you :mod this )  :concession-of ( and :op1 ( succeed :polarity - :arg0 i :arg1 ( repair :arg0 i :arg1 ( plane :poss i )  )  :time yet )  :op2 ( have :arg0 i :arg1 ( nothing :purpose ( drink :arg0 i )  )  )  :op3 ( happy :arg1 i :degree very :condition ( possible :arg1 ( walk :arg0 i :direction ( spring :source-of ( water :arg1-of fresh )  )  :manner ( at :op1 ( leisure :poss i )  )  )  )  )  )  :degree very )  )  :arg2 ( prince :mod little )
+mean :arg1 that :arg2 amr-unknown
+bring :arg0 ( grain :mod ( golden :mod also )  )  :arg1 ( think :arg1 you )  :arg2 i :direction back
+say :arg0 ( prince :mod little )  :arg1 ( know :arg0 prince :arg1 ( someone :arg1-of ( make :arg2 ( person :arg0-of explore :arg1-of ( bad :arg2 explore )  )  )  )  )
+mean :arg1 this :arg2 amr-unknown
+say :arg0 ( person :arg0-of ( light :arg1 lamp )  )  :arg1 ( want :arg0 person :arg1 ( rest :arg1 person )  :time always )
+reply :arg0 fox :arg2 ( obligate :arg2 ( patient :arg1 you :degree very )  )
+and :op1 ( possess :arg0 he :arg1 ( volcano :quant num_0 :arg0-of activity )  )  :op2 ( convenient :degree very :purpose ( heat :arg1 ( food :arg1-of ( breakfast :arg0 he )  )  :arg2 volcano :time ( date-entity dayperiod_date-entity_0 )  )  :domain volcano )
+possible :arg1 ( cause :arg0 ( think :arg0 he :arg2 ( something :mod else :arg1-of ( differ :arg2 he )  )  )  )
+and :op2 ( have :arg0 person :arg1 ( imagine :polarity - )  )
+feel :arg0 i :arg1 ( and :op1 ( move :arg1 i :arg1-of deep )  :op2 ( stir :arg1 i )  )
+obligate :arg1 you :arg2 ( work :arg0 you )  :time now
+look :arg0 he :arg1 ( i :arg0-of ( bend :destination down :location ( object :mod ( ugly :mod ( seem :arg2 he )  :degree extreme )  )  )  :arg0-of ( have :arg1 ( hammer :poss i )  :location ( hand :part-of i )  )  :arg0-of ( have :arg1 ( finger :part-of i :arg1-of ( black :arg0 ( grease :mod engine )  )  )  )  )  :location there
+demand :mode interrogative :arg0 ( prince :mod little )  :arg1 ( come :arg1 they :direction back :time already )
+say :arg0 ( prince :mod little )  :arg1 ( evening :arg1-of good )  :manner courteous
+possible :arg1 ( see :arg0 i :arg1 ( revive :arg1 he :manner little-by-little )  )
+and :op1 ( last :arg1 ( thing :arg2-of ( adorn :arg1 she :mod mysterious )  )  :arg2 ( multiple :op1 ( temporal-quantity temporal-quantity_num_0 :unit day )  )  )
+time :arg1-of ( waste :arg0 you :beneficiary ( rose :poss you )  )  :arg0-of ( make :arg1 ( important :domain rose :degree so )  )
+and :op2 ( and :op1 ( lie :arg1 he :arg2 grass :direction down )  :op2 ( cry :arg0 he )  )
+tolerate :arg0 he :arg1 ( disobey :arg1 he )  :polarity -
+own :arg0 i :arg1 ( volcano :quant num_0 :arg1-of ( clean-out :arg0 i :frequency ( rate-entity :arg3 ( temporal-quantity temporal-quantity_num_0 :unit week )  )  :arg1-of ( cause :arg0 ( clean-out :arg0 i :arg1 ( volcano :mod extinct :arg1-of ( include :arg2 volcano )  )  :mod also :arg1-of ( cause :arg0 ( know :polarity - :arg0 one )  )  )  )  )  )
+spot :domain this :mod ( exact :polarity - )
+hat :mod queer :domain that :arg1-of wear
+responsible :arg0 i :arg1 ( flower :mod this )
+possible :polarity - :arg1 ( die :arg1 one :beneficiary you )
+look :mode imperative :arg0 you :arg1 sky :direction up
+put :arg1 ( thing :arg1-of ( recite :arg0 ( person :arg0-of explore )  )  )  :direction down :time first :instrument pencil
+mean :arg1 ephemeral :arg2 amr-unknown
+say :arg0 geographer :arg1 ( record :polarity - :arg0 we :arg1 they :arg1-of ( cause :arg0 ( ephemeral :domain they )  )  )
+disturb :arg0 it :degree very
+and :op2 ( dare :polarity - :arg1 i :arg2 ( question :arg0 i :arg2 he :mod ( more :mod any )  )  )  :time now
+curious :arg0 yawn :arg1 i
+say :arg0 switchman :arg1 ( sort :arg0 switchman :arg1 ( person :arg0-of travel )  :arg2 ( bundle :arg0 switchman :arg1 person :arg2 ( person :quant num_0 )  )  )
+burn :arg1 ( volcano :arg1-of ( erupt :polarity - )  )  :condition ( clean-out :arg1 volcano :degree well )  :manner steady :arg1-of slow
+say :arg0 ( prince :mod little )  :arg1 ( and :op1 ( oh :mode expressive )  :op2 ( contrast :arg2 ( be-located-at :polarity - :arg1 this :arg2 location_name_0 )  )  )
+say :arg0 he :arg1 ( wonder :arg0 he :arg1 ( light :mode interrogative :arg1 star :location heaven :purpose ( find :arg0 ( we :mod each )  :arg1 ( star :poss we )  :time ( day :mod one )  :mod again :arg1-of possible )  )  )
+want :arg0 you :arg1 ( laugh :arg0 you :accompanier i )
+and :op1 ( away :extent far :location-of you )  :op2 ( fear :polarity - :arg0 i :arg1 ( animal :mod large :quant any )  :degree at-all )
+look :arg0 i :arg1 ( person :arg0-of ( have-rel-role :arg1 i :arg2 friend )  )
+belong :arg0 island :arg1 you :condition ( discover :arg0 you :arg1 ( island :arg0-of ( belong :arg1 nobody )  )  )
+and :op2 ( oblige :arg1 i :arg2 ( pretend :arg0 i :arg1 ( nurse :arg0 i :arg1 she :purpose ( live :arg0 she )  )  )  )  :arg1-of ( cause :arg0 ( allow :arg0 she :arg1 ( die :arg1 she )  :arg1-of real :condition ( pretend :polarity - :arg0 i :arg1 nurse :purpose ( humble :arg0 i :arg1 i :mod also )  )  )  )
+mean :arg1 it :arg2 ( thing :arg1-of ( endanger :arg1-of ( cause :arg0 ( disappear :arg1-of speedy )  )  )  )
+that :arg1-of ( cause :arg0 amr-unknown )
+say :arg0 fox :arg1 ( understand :arg0 one :arg1 ( thing :arg1-of ( tame :arg0 one )  )  :mod only )
+contrast :arg2 ( obligate :arg1 you :arg2 ( forget :polarity - :arg0 you :arg1 it )  )
+and :op1 ( laugh :arg0 he )  :op2 ( touch :arg0 he :arg1 rope )  :op3 ( set :arg0 he :arg1 pulley :arg2 ( work :arg1 pulley )  )
+dance :arg0 they :arg2 ( girl :source village )  :frequency ( rate-entity :arg4 ( date-entity weekday_date-entity_0 )  )
+and :op1 ( have :polarity - :arg0 they :arg1 root )  :op2 ( make :arg0 have :arg1 ( difficult :domain ( thing :arg1-of live :poss they )  :degree very )  )
+give :arg0 ( something :arg1-of ( see :arg1-of ( possible :polarity - )  )  )  :arg1 ( beautiful :arg1 and )  :arg2 ( and :op1 house :op2 star :op3 desert )
+look :polarity - :arg0 he :arg1 star :time ever
+say :arg0 i
+recommend :arg1 ( look :arg0 one :instrument heart )
+say :arg0 ( prince :mod little )  :arg1 ( make :arg0 ( hide :arg0 desert :arg1 well :location somewhere )  :arg1 ( beautiful :arg1 desert )  )
+flash :arg0 ( prince :mod little )  :arg1 ( believe :polarity - :arg0 prince :arg1 i )  :arg2 i :time then :manner ( resent :arg0 prince :mod kind )  :direction back
+and :op2 ( look :arg0 you :time then :mode imperative )  :op3 ( see :arg0 you :arg1 ( field :mod grain :location ( yonder :mod down )  )  :mode interrogative )
+beautiful :arg1 you :degree so
+strange :domain it
+say :arg0 ( prince :mod little )  :arg1 ( morning :arg1-of good )
+and :op1 ( look :arg0 he :arg1 i :manner ( grave :degree very )  )  :op2 ( put :arg0 he :arg1 ( arm :part-of he )  :arg2 ( around :op1 ( neck :part-of i )  )  )
+answer :arg0 i :arg1 you :arg2 ( thing :ord ( ordinal-entity ordinal-entity_num_0 )  :arg1-of ( come :arg4 ( head :part-of i )  )  )
+and :op2 ( go :arg0 ( prince :mod little :arg1-of puzzle )  :direction away )
+have-quant :arg2 num_0
+look :arg1 ( sky :time ( date-entity dayperiod_date-entity_0 )  )  :arg1-of sweet :condition ( love :arg0 you :arg1 ( flower :arg0-of ( live :location star )  )  )
+ask :arg0 ( prince :mod little )  :arg1 ( geographer :domain amr-unknown )
+call :arg0 ( step :arg1 you )  :arg1 ( out :arg1 i :arg2 ( burrow :poss i )  )  :arg2 i :arg1-of ( resemble :arg2 music )
+say :arg0 he :arg1 goodbye :mod again
+say :arg0 ( person :arg0-of ( light :arg1 lamp )  )  :arg1 ( nothing :arg1-of understand )
+grow :arg0 flower :arg1 thorn :duration ( multiple :op1 ( temporal-quantity temporal-quantity_num_0 :unit year )  )
+answer :arg0 echo :arg2 ( alone :domain i :mod all )
+say :arg0 ( prince :mod little )  :arg1 ( have-concession :arg1 ( know :polarity - :arg0 man :arg1 ( thing :arg1-of ( look :arg0 man )  )  )  :arg2 ( set-out :arg0 man :path ( way :poss man )  :manner ( train :mod express )  )  )
+hesitate :arg0 ( prince :mod little )  :duration moment :arg1-of ( cause :arg0 ( answer :polarity - :arg0 king )  )
+say :arg1 ( and :op1 ( far :mod ( much :quant more )  :domain it )  :op2 ( difficult :degree ( more :quant much )  :domain it )  )  :time then :manner sad
+occupation :arg1-of beautiful :domain that
+repeat :arg0 they :arg1 ( thing :arg1-of ( say :arg0 ( person :arg1-of ( include :arg2 they )  )  :arg2 they )  :mod all )
+gaze :arg0 fox :arg1 ( prince :mod little )  :arg1-of long
+contrast :arg2 ( interrupt :arg0 he :arg1 i )
+say :arg0 ( prince :mod little )  :arg1 ( and :op1 ( ephemeral :domain ( flower :poss prince )  )  :op2 ( have :arg0 flower :arg1 ( thorn :arg2-of ( defend :arg0 flower :arg1 flower :arg3 world )  :quant ( only :op1 num_0 )  )  )  )  :arg2 prince
+mystery :mod great :time then :location here
+add :arg0 she :arg1 ( think :arg0 she :arg1 ( time :purpose breakfast )  )  :time ( late :degree ( more :quant instant )  )
+possible :arg1 ( same :arg1 ( nothing :location universe )  :arg3 ( and :op1 ( you :arg0-of ( love :arg1 ( prince :mod little )  )  :mod also )  :op2 i )  )  :condition ( eat :mode interrogative :arg0 ( sheep :arg1-of ( see :polarity - :arg0 we :time ever )  )  :arg1 rose :location ( somewhere :arg1-of ( know :polarity - :arg0 we )  )  )
+find-out :arg0 he :arg1 ( be-located-at :arg1 he :arg2 ( neighborhood :location-of ( and :op1 ( asteroid :name ( name :op1 num_0 )  )  :op2 ( asteroid :name ( name :op1 num_1 )  )  :op3 ( asteroid :name ( name :op1 num_2 )  )  :op4 ( asteroid :name ( name :op1 num_3 )  )  :op5 ( asteroid :name ( name :op1 num_4 )  )  :op6 ( asteroid :name ( name :op1 num_5 )  )  )  )  )
+concern :arg0 ( matter :mod consequence )  :arg1 i
+important :polarity - :mode interrogative :domain ( war :arg0 sheep :arg1 flower )
+tell :arg0 i :arg1 ( obligate :arg2 ( maintain :arg1 ( army :consist-of ( person :quant num_0 :arg0-of ( light :arg1 lamp )  )  :mod veritable )  :location ( over :op1 ( continent :quant ( whole :op1 num_1 )  )  )  :purpose ( lamp :location street )  )  :time ( before :op1 ( invent :arg1 electricity )  )  )  :arg2 you :purpose ( give :arg1 ( idea :topic ( size :arg1 location_name_0 )  )  :arg2 you )
+say :arg0 ( prince :mod little )  :arg1 ( morning :arg1-of good )
+and :op2 ( mistake :polarity - :arg0 they :arg1 ( order :arg1 ( enter :arg0 they :arg1 stage )  )  :time ever )
+contrast :arg2 ( say :arg0 he :arg1 ( know :polarity - :arg0 one )  )
+make-up :arg0 ( and :op1 ( light :arg0 ( tree :mod other_name_0 )  )  :op2 ( music :poss other_name_1 )  :op3 ( tender :domain ( face :arg0-of smile )  )  )  :arg1 ( radiant :domain ( gift :arg1-of ( receive :arg0 i )  )  )  :manner so :time ( boy :mod little :domain i )
+ask :mode interrogative :arg0 ( prince :mod little )  :arg1 ( over :op1 ( that :mod all )  )
+flower :mod even :arg0-of ( have :arg1 thorn )
+cause :arg0 ( possible :arg1 ( and :op1 faithful :op2 lazy :domain man :time ( same :arg1 time )  )  )
+ask :arg0 ( prince :mod little )  :arg1 ( sell :arg0 you :arg1 that :arg1-of ( cause :arg0 amr-unknown )  )
+obligate :arg1 ( bite :polarity - :arg0 he :arg1 you )
+say :arg0 snake :arg1 ( beautiful :arg1 it )
+drink :arg0 ( person :arg0-of explore )  :quant ( much :degree too )  :arg0-of ( cause :arg1 ( thing :arg1-of same )  )
+planet :mod ( ordinary :mod ( just :polarity - )  )  :domain location_name_0
+possible :polarity - :arg1 ( travel :arg0 you )  :mod even
+take :arg0 i :arg1 ( picture :arg1-of draft :arg1-of rough :arg1-of draw )  :arg2 ( pocket :poss i )
+climb :arg0 ( prince :mod little )  :arg1 ( mountain :arg1-of high )  :time ( after :op1 that )
+reply :arg0 ( prince :mod little )  :arg2 ( possible :polarity - :arg1 ( stop :arg0 prince :arg1 prince )  )  :manner ( embarrass :arg1 prince :degree thorough )
+opine :arg0 i :arg1 ( boy :mod little :arg1-of ( resemble :arg2 ( boy :quant num_0 :mod little :mod other )  :mod just )  :domain ( you :mod ( more :polarity - )  )  :mod still )
+have-concession :arg1 ( start :arg0 we :arg1 walk )
+sure :mode interrogative :arg0 you :arg1 ( suffer :polarity - :arg0 i :arg1 it :arg1-of ( long :degree too )  )
+contrast :arg2 ( effort :arg0 he :arg1 ( nice :arg1 it :degree very )  :mod ( more :quant num_0 )  )
+possible :arg1 ( pile :arg1 ( humanity :mod all )  :arg2 ( islet :mod small :location location_name_0 )  )
+all :mode interrogative :domain that :arg1-of need
+reply :arg0 flower :arg2 ( weed :polarity - :domain flower )  :manner sweet
+order :arg2 ( put-out :arg0 i :arg1 ( lamp :poss i )  )
+inhabit :arg0 ( gentleman :mod old :arg0-of ( write :arg1 ( book :mod volume )  )  )  :arg1 it
+mop :arg0 he :arg1 ( forehead :part-of he )  :arg2 ( handkerchief :arg1-of ( decorate :arg2 ( square :arg1-of red )  )  )  :time then
+recommend :arg1 ( listen :polarity - :arg0 one :arg1 flower :time ever )
+possible :polarity - :time ever :arg1 ( fasten :arg0 he :arg1 it :arg2 ( sheep :poss he )  )
+glad :arg0 ( have-rel-role :arg0 fox :arg1 i :arg2 friend )  :arg1 ( i :arg0-of exemplify )  :degree very
+resemble :arg1 she :arg2 ( creature :mod coquet )
+chapter :mod num_0
+disturb :arg1 i :arg1-of ( have-frequency :arg2 num_0 :mod only )  :time ( inhabit :arg0 i :arg1 ( planet :mod this )  :duration ( temporal-quantity temporal-quantity_num_0 :unit year )  )
+possible :arg1 ( move :arg1 i )  :polarity -
+wish :polarity - :arg0 ( she :arg1-of ( rumple :mod all )  :arg1-of ( resemble :arg2 ( poppy :mod field )  )  )  :arg1 ( go-out :arg0 she :destination world )
+say :arg0 he :arg1 ( alone :degree all :domain he )
+answer :arg0 i :arg1 ( eat :arg1 ( anything :arg1-of ( find :arg0 it :location ( reach :arg0 it )  )  )  )
+flower :mode interrogative :mod even :arg0-of ( have :arg1 thorn )
+yes
+say :arg0 i :arg1 ( want :arg0 i :arg1 ( hear :arg0 i :arg1 ( laugh :arg0 you :mod again )  )  )
+go :arg0 they :purpose ( sleep :arg0 they )  :time ( after :op1 ( light :arg0 they :arg1 ( lamp :poss they )  )  )
+and :op2 ( feel :arg0 i :arg1 ( fragile :domain he :degree more :mod still )  )
+old :domain i :degree very
+and :op1 ( activity :arg0 ( volcano :quant num_0 )  )  :op2 ( extinct :domain other )
+flush :arg1 ( prince :mod little )  :mod ( again :frequency num_0 )
+obligate :arg1 i :arg2 ( do :arg1 ( much :degree so )  )
+concern :polarity - :arg1-of ( cause :arg0 amr-unknown )
+say :arg0 ( king :arg0-of ( pride :arg2 ( reign :arg0 king :arg1 somebody :time at-last )  )  )  :arg1 ( approach :mode imperative :arg1 you :purpose ( see :arg0 king :arg1 you :manner ( well :degree more )  )  )
+have-rel-role :arg0 you :arg1 i :arg2 friend :time always
+possible :arg1 ( buy :arg0 i :arg1 ( star :degree more )  )  :condition ( discover :arg1 star :time ever )
+pluck :arg0 he :arg1 ( courage :poss he )  :mod up :arg1-of ( cause :arg0 ( feel :arg0 he :arg1 ( sad :arg1 he :degree bit )  :arg1-of ( cause :arg0 ( remember :arg0 he :arg1 ( planet :poss he :mod little :arg1-of ( forsake :arg0 he )  )  )  )  )  )  :arg0-of ( cause :arg1 ( ask :arg0 he :arg1 ( and :op1 ( like :arg0 i :arg1 ( see :arg0 i :arg1 sunset )  )  :op2 ( do :mode imperative :arg0 king :arg1 ( thing :arg1-of ( kind :arg0 king :arg2 he )  )  :arg2 he )  )  :arg2 king )  )
+say :arg0 he :arg1 ( possible :arg1 ( order :arg0 ( person :arg1-of ( title :arg2 ( majesty :poss person )  )  )  :arg1 he :arg2 ( thing :arg1-of reasonable )  )  :condition ( wish :arg0 person :arg1 ( obey :arg1 person :manner prompt )  )  )
+person :arg0-of hunt :location ( planet :mod this )  :mode interrogative
+say :arg0 ( prince :mod little )  :arg2 ( you :domain amr-unknown )
+and :op2 ( and :op1 ( go :arg0 ( prince :mod little )  :direction away )  :op2 ( think :arg0 prince :arg1 ( flower :poss prince )  )  )
+ask :arg0 ( prince :mod little )  :arg1 ( do :arg0 you :arg1 amr-unknown :location here )
+ask :arg0 ( prince :mod little )  :arg1 ( obligate :arg2 ( do :arg0 prince :arg1 amr-unknown :purpose ( tame :arg0 prince :arg1 you )  )  )
+fear :arg0 he :mod certain
+ah :mode expressive
+possible :arg1 ( walk :arg0 i :extent ( far :degree equal :compared-to vineyard )  )
+minister :topic amr-unknown
+reply :arg0 ( person :arg0-of ( light :arg1 lamp )  )  :arg2 ( order :arg2 that )
+say :arg0 ( prince :mod little )  :arg1 you :arg1-of firm
+reply :arg0 ( prince :mod little )  :arg2 ( want :arg0 prince :arg1 ( tame :arg0 prince :arg1 you )  :degree ( much :degree very )  )
+go :polarity - :mode imperative :arg0 you
+admire :mode imperative :arg0 you :arg1 i :manner ( same :degree just )
+and :op1 ( remain :arg1 he :arg3 ( stand :arg1 he :manner upright )  )  :op2 ( yawn :arg0 he :arg1-of ( cause :arg0 ( tire :arg1 he )  )  )
+and :op2 ( cause :arg1 ( bore :arg1 i :degree little )  )
+opine :arg0 i :arg1 ( landscape :mod ( lovely :degree most :compared-to world )  :arg0-of ( sad :degree most :compared-to world )  :domain this )
+choose :arg0 she :arg1 ( color :poss she )  :manner ( care :degree ( great :degree most )  )
+draw :arg0 i :arg1 ( railing :arg1-of ( put :arg2 ( around :op1 ( flower :poss you )  )  )  )  :arg2 you
+contrast :arg1 ( sad :arg1 i )  :arg2 ( tell :arg0 i :arg1 ( tire :arg1 i )  :arg2 they )
+possible :arg1 ( say :arg0 he :arg1 ( contrast :arg1 ( be-located-at :arg1 ( flower :poss he )  :arg2 there )  :arg2 ( darken :arg1 ( star :mod all :poss he )  :condition ( eat :arg0 sheep :arg1 flower )  :time ( moment :quant num_0 )  )  )  :arg2 he )
+equal :arg1 ( sum-of :op1 num_0 :op2 num_1 )  :arg2 num_2
+tour :polarity - :arg0 i :arg1 ( kingdom :poss i )  :arg1-of complete
+contrast :arg1 ( day :arg2-of right )  :arg2 ( place :polarity - :domain this )
+say :arg0 ( prince :mod little )  :arg1 ( strange :degree very :domain grown-up )  :arg2 prince :time ( continue :arg0 prince :arg1 ( journey :arg0 prince )  )
+surprise :arg0 ( see :polarity - :arg0 prince :arg1 ( person :quant any )  )  :arg1 ( prince :mod little )  :degree ( much :degree very )  :time ( arrive :arg1 prince :arg4 location_name_0 )
+leave :polarity - :arg0 i :arg1 you
+dare :polarity - :arg0 ( prince :mod little )  :arg2 ( confess :arg1 ( cause :arg0 ( bless :arg1 ( planet :mod this )  :arg2 ( sunset :quant num_0 )  :frequency ( rate-entity :arg3 ( temporal-quantity temporal-quantity_num_0 :unit day )  )  )  :arg1 ( sorry :arg1 prince :arg2 ( leave :arg1 planet )  )  :degree most )  )
+breathe :arg0 i :arg1-of easy
+order :domain order
+funny :degree very :domain that
+look :mode imperative :arg0 you :arg1 ( planet :source i )
+and :op1 ( absolute :domain ( rule :arg0 he )  )  :op2 ( universal :domain rule )
+have :arg0 i :arg1 ( time :purpose ( light :arg0 i :arg1 it :mod again )  )  :polarity -
+contrast :arg2 ( cause :arg0 amr-unknown :arg1 ( light :arg0 you :arg1 it :mod again :mod just )  )
+and :op1 ( believe :arg0 you :arg1 ( do :arg0 flower )  :arg1-of actual )
+say :arg0 i :arg1 ( knock-out :arg0 i :arg1 bolt :arg2 hammer :condition ( turn :polarity - :arg1 ( bolt :mod this )  :mod still )  )  :arg2 i :time ( instant :mod that )
+cause :arg0 ( mean :arg1 ( work :arg0 he )  :degree some :mod at-least )
+say :arg0 geographer :arg1 ( know :polarity - :arg0 one :time ever )
+know :arg0 i :polarity -
+contrast :arg2 ( reply :arg0 ( prince :mod little )  :arg2 exact :mod again :time once )
+know :arg0 i :arg1 ( planet :location-of ( gentleman :mod certain :part ( face :arg1-of red )  )  )
+mean :mode interrogative :arg0 you :arg2 star
+leave :polarity - :arg0 i :arg1 you
+say :arg0 ( prince :mod little )  :arg1 no
+large :domain ( planet :ord ( ordinal-entity ordinal-entity_num_0 )  )  :quant ( product-of :op1 num_0 :op2 ( volume-quantity :quant-of ( planet :mod last )  )  )
+believe :arg0 he :arg1 ( want :polarity - :arg0 he :arg1 ( return :arg1 he )  :time ever )
+make :arg0 ( person :arg1-of expert )  :arg1 ( thing :arg1-of compute )
+present :arg0 i :arg1 that
+say :arg0 snake :arg1 ( possible :arg1 ( carry :arg0 snake :arg1 you :extent ( far :degree more :compared-to ( take :arg0 ( ship :mod any )  :arg1 you )  )  )  )
+naive :domain they
+say :arg0 he :arg1 ( possible :arg1 ( tell :arg0 he :arg1 ( way :purpose ( possible :arg1 ( rest :arg1 you :time ( want :arg0 you :mod any )  )  )  )  :arg2 you )  )
+establish :arg1 tie :mode interrogative
+and :op2 ( add :arg0 ( prince :mod little )  :arg1 ( contrast :arg2 ( blind :arg1 eye )  )  )
+contrast :arg2 ( and :op1 ( and :op1 ( innocent :arg1 you )  :op2 ( true :arg1 you )  )  :op2 ( come :arg1 you :arg3 star )  )
+say :arg0 ( prince :mod little )  :arg1 ( have :arg0 prince :arg1 ( trouble :arg0 flower :mod some )  )
+hear :polarity - :arg0 ( person :mod conceit )  :arg1 ( anything :concession praise )  :time ever
+and :op2 ( realize :arg0 i :arg1 ( risk :arg0 i :arg2 ( give :arg0 i :arg1 ( idea :mod false :topic ( planet :source we )  )  :arg2 ( person :arg0-of ( know :polarity - :arg1 planet )  )  )  )  )
+and :op2 ( do :arg0 you :arg1 amr-unknown :arg2 they )
+say :arg0 ( prince :mod little )  :arg1 ( hear :arg0 you :mode interrogative )
+and :op1 ( count :arg0 i :arg1 they )  :op2 ( recount :arg0 i :arg1 they )
+ah :mode expressive
+and :op1 ( hold :arg0 i :arg1 he :arg1-of close :location ( arm :part-of i )  :arg1-of ( resemble :arg2 ( child :mod little :domain he )  )  )  :op2 ( seem :arg1 ( rush :arg1 he :arg2 ( toward :op1 ( abyss :arg2-of ( restrain :polarity - :arg0 i :arg1 he )  )  :mod headlong )  )  :arg2 i :mod yet )
+absurd :domain ( look :arg1 well :location ( desert :mod immense )  :manner random )

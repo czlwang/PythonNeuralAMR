@@ -21,7 +21,7 @@ device = torch.device("cuda" if torch.cuda.is_available() else "cpu")
 
 SOS_token = 0
 EOS_token = 1
-MAX_LENGTH = 10
+MAX_LENGTH = 40
 
 class Lang:
     def __init__(self, name):
@@ -58,10 +58,16 @@ def prepareData():
 
     sen_lines = open('data/training-dfs-linear_targ.txt', encoding='utf-8').\
         read().strip().split('\n')
-    amr_lines = open('data/training-dfs-linear_src.txt', encoding='utf-8').\
+    amr_lines = open('data/training-dfs-linear_src.txt', encoding='ascii').\
+        read().strip().split('\n')
+    giga_lines = open('data/gigaword.txt.anonymized', encoding='ascii').\
         read().strip().split('\n')
 
-    pairs = [list(x) for x in zip(sen_lines, amr_lines)][:2]
+    for line in giga_lines:
+        input_lang.addSentence(line)
+        output_lang.addSentence(line)
+        
+    pairs = [list(x) for x in zip(sen_lines, amr_lines)]
     
     pairs = filterPairs(pairs)
 
@@ -73,12 +79,20 @@ def prepareData():
     print("Counted words:")
     print(input_lang.name, input_lang.n_words)
     print(output_lang.name, output_lang.n_words)
+    print('.\n' in input_lang.word2index)
     return input_lang, output_lang, pairs
 
-
-input_lang, output_lang, pairs = prepareData()
-print(random.choice(pairs))
-
+def prepareSelfTrainData(encoder, decoder, sentences, max_length=MAX_LENGTH):
+    pairs = []
+    
+    for sen in sentences:
+        if len(sen.split(' ')) < max_length:
+            amr = " ".join(evaluate(encoder, decoder, sen)[0])
+            pairs.append([sen, amr])
+    pairs = filterPairs(pairs)
+    
+    return pairs
+    
 class EncoderRNN(nn.Module):
     def __init__(self, input_size, hidden_size, num_layers):
         super(EncoderRNN, self).__init__()
@@ -163,6 +177,7 @@ class AttnDecoderRNN(nn.Module):
         return (torch.zeros(2*self.num_layers, 1, self.hidden_size, device=device), torch.zeros(2*self.num_layers, 1, self.hidden_size, device=device))
 
 def indexesFromSentence(lang, sentence):
+    sentence = sentence.rstrip()
     return [lang.word2index[word] for word in sentence.split(' ')]
 
 
@@ -244,8 +259,6 @@ def timeSince(since, percent):
     rs = es - s
     return '%s (- %s)' % (asMinutes(s), asMinutes(rs))
 
-plt.switch_backend('agg')
-
 
 def showPlot(points):
     plt.figure()
@@ -255,7 +268,7 @@ def showPlot(points):
     ax.yaxis.set_major_locator(loc)
     plt.plot(points)
 
-def trainIters(encoder, decoder, n_iters, print_every=1000, plot_every=100, learning_rate=0.01):
+def trainIters(encoder, decoder, n_iters, pairs, print_every=1000, plot_every=100, learning_rate=0.01):
     start = time.time()
     plot_losses = []
     print_loss_total = 0  # Reset every print_every
@@ -337,13 +350,58 @@ def evaluateRandomly(encoder, decoder, n=10):
         print('<', output_sentence)
         print('')
 
+def showAttention(input_sentence, output_words, attentions):
+    # Set up figure with colorbar
+    fig = plt.figure()
+    ax = fig.add_subplot(111)
+    cax = ax.matshow(attentions.numpy(), cmap='bone')
+    fig.colorbar(cax)
+
+    # Set up axes
+    ax.set_xticklabels([''] + input_sentence.split(' ') +
+                       ['<EOS>'], rotation=90)
+    ax.set_yticklabels([''] + output_words)
+
+    # Show label at every tick
+    ax.xaxis.set_major_locator(ticker.MultipleLocator(1))
+    ax.yaxis.set_major_locator(ticker.MultipleLocator(1))
+
+    fig.savefig('attention.png', bbox_inches='tight')
+
+
+def evaluateAndShowAttention(input_sentence):
+    output_words, attentions = evaluate(
+        encoder1, attn_decoder1, input_sentence)
+    print('input =', input_sentence)
+    print('output =', ' '.join(output_words))
+    showAttention(input_sentence, output_words, attentions)
+
+plt.switch_backend('agg')
+
+input_lang, output_lang, pairs = prepareData()
+print(random.choice(pairs))
+
 num_layers = 2
 hidden_size = 256
 encoder1 = EncoderRNN(input_lang.n_words, hidden_size, num_layers).to(device)
 attn_decoder1 = AttnDecoderRNN(hidden_size, output_lang.n_words, num_layers, dropout_p=0.1).to(device)
 
-trainIters(encoder1, attn_decoder1, 1000, print_every=1000)
+trainIters(encoder1, attn_decoder1, 75000, pairs, print_every=1000)
 
-evaluateRandomly(encoder1, attn_decoder1)
 torch.save(encoder1, "saved_models/encoder1.pt")
 torch.save(attn_decoder1, "saved_models/attn_decoder1.pt")
+
+#self_train_iter = 3
+#self_train_sample = 3
+#
+#for i in range(self_train_iter):
+#    f3 = open("data/gigaword.txt.anonymized","r", encoding='ascii')
+#    giga_lines = list(f3.readlines())[:self_train_sample*10**i]
+#    f3.close()
+#    pairs = prepareSelfTrainData(encoder1, attn_decoder1, giga_lines)
+#    print(len(pairs), pairs[0])
+#
+#
+#evaluateRandomly(encoder1, attn_decoder1)
+#
+#evaluateAndShowAttention("it is an order .")

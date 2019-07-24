@@ -4,6 +4,10 @@ import unicodedata
 import string
 import re
 import random
+from tqdm import tqdm as tqdm
+
+import json
+import torch.utils.data as data
 
 import torch
 import torch.nn as nn
@@ -21,6 +25,7 @@ device = torch.device("cuda" if torch.cuda.is_available() else "cpu")
 
 SOS_token = 0
 EOS_token = 1
+UNK_token = 2
 MAX_LENGTH = 40
 
 class Lang:
@@ -28,8 +33,8 @@ class Lang:
         self.name = name
         self.word2index = {}
         self.word2count = {}
-        self.index2word = {0: "SOS", 1: "EOS"}
-        self.n_words = 2  # Count SOS and EOS
+        self.index2word = {0: "SOS", 1: "EOS", 2: "UNK"}
+        self.n_words = 3  # Count SOS and EOS and UNK
 
     def addSentence(self, sentence):
         for word in sentence.split(' '):
@@ -51,7 +56,7 @@ def filterPair(p):
 def filterPairs(pairs):
     return [pair for pair in pairs if filterPair(pair)]
 
-def prepareData():
+def prepareData(src_path, targ_path):
     input_lang = Lang("sen")
     output_lang = Lang("amr")
     pairs = []
@@ -60,26 +65,26 @@ def prepareData():
         read().strip().split('\n')
     amr_lines = open('data/training-dfs-linear_src.txt', encoding='ascii').\
         read().strip().split('\n')
-    giga_lines = open('data/gigaword.txt.anonymized', encoding='ascii').\
-        read().strip().split('\n')
+    #giga_lines = open('data/gigaword.txt.anonymized', encoding='ascii').\
+    #    read().strip().split('\n')
 
-    for line in giga_lines:
-        input_lang.addSentence(line)
-        output_lang.addSentence(line)
+    #for line in giga_lines:
+    #    input_lang.addSentence(line)
+    #    output_lang.addSentence(line)
         
     pairs = [list(x) for x in zip(sen_lines, amr_lines)]
     
     pairs = filterPairs(pairs)
 
     print("Read %s sentence pairs" % len(pairs))
-    print("Counting words...")
+    #print("Counting words...")
     for pair in pairs:
         input_lang.addSentence(pair[0])
         output_lang.addSentence(pair[1])
     print("Counted words:")
     print(input_lang.name, input_lang.n_words)
     print(output_lang.name, output_lang.n_words)
-    print('.\n' in input_lang.word2index)
+    #print('.\n' in input_lang.word2index)
     return input_lang, output_lang, pairs
 
 def prepareSelfTrainData(encoder, decoder, sentences, max_length=MAX_LENGTH):
@@ -89,6 +94,7 @@ def prepareSelfTrainData(encoder, decoder, sentences, max_length=MAX_LENGTH):
         if len(sen.split(' ')) < max_length:
             amr = " ".join(evaluate(encoder, decoder, sen)[0])
             pairs.append([sen, amr])
+    #print(pairs)
     pairs = filterPairs(pairs)
     
     return pairs
@@ -125,11 +131,11 @@ class AttnDecoderRNN(nn.Module):
         self.num_layers = num_layers
 
         self.embedding = nn.Embedding(self.output_size, self.hidden_size)
-        self.attn = nn.Linear(self.hidden_size + self.num_layers*2*self.hidden_size, self.max_length)
+        self.attn = nn.Linear(self.hidden_size + self.num_layers*self.hidden_size, self.max_length)
         self.attn_combine = nn.Linear(self.hidden_size + self.hidden_size * 2, self.hidden_size)
         self.dropout = nn.Dropout(self.dropout_p)
-        self.lstm = nn.LSTM(hidden_size, hidden_size, num_layers, bidirectional=True)
-        self.out = nn.Linear(2*self.hidden_size, self.output_size)
+        self.lstm = nn.LSTM(hidden_size, hidden_size, num_layers)
+        self.out = nn.Linear(self.hidden_size, self.output_size)
 
     def forward(self, input, hidden, encoder_outputs):
         #print("input attnDecoder shape", input.shape)
@@ -140,12 +146,13 @@ class AttnDecoderRNN(nn.Module):
         #print("embedded attnDecoder shape", embedded.shape)
         #print("embedded[0] attnDecoder shape", embedded[0].shape)
         #print("hidden[0].view(1,-1) attnDecoder shape", hidden[0].view(1,-1).shape)
+        #print("hidden[0] attnDecoder shape", hidden[0].shape)
         #print("encoder_outputs shape", encoder_outputs.shape)
         #print("encoder_outputs shape unsqueeze", encoder_outputs.unsqueeze(0).shape)
         #encoder_outputs is seq_length x 2*hidden_size (bi-directional)
 
         # hidden[0].view(1,-1) is
-        # (1x(hidden_size*2*num_layers)) (1x1024)
+        # (1x(hidden_size*num_layers)) (1x1024)
         # embedded[0] is 1xhidden_size 1x256
         # attn_weights is 1xmax_length 1x10
         attn_weights = F.softmax(
@@ -157,7 +164,7 @@ class AttnDecoderRNN(nn.Module):
         attn_applied = torch.bmm(attn_weights.unsqueeze(0),
                                  encoder_outputs.unsqueeze(0))
         #print("attn_applied.shape", attn_applied.shape)
-        # output is concat of 1 x hidden_size and 1 x 2*hidden_size. 
+        # output is concat of 1 x hidden_size and 1 x hidden_size. 
         # in other words, the concat of input and attention.
         # Here, 1 is batch size (?)
         output = torch.cat((embedded[0], attn_applied[0]), 1)
@@ -174,11 +181,11 @@ class AttnDecoderRNN(nn.Module):
         return output, hidden, attn_weights
 
     def initHidden(self):
-        return (torch.zeros(2*self.num_layers, 1, self.hidden_size, device=device), torch.zeros(2*self.num_layers, 1, self.hidden_size, device=device))
+        return (torch.zeros(self.num_layers, 1, self.hidden_size, device=device), torch.zeros(self.num_layers, 1, self.hidden_size, device=device))
 
 def indexesFromSentence(lang, sentence):
     sentence = sentence.rstrip()
-    return [lang.word2index[word] for word in sentence.split(' ')]
+    return [lang.word2index.get(word, UNK_token) for word in sentence.split(' ')]
 
 
 def tensorFromSentence(lang, sentence):
@@ -214,8 +221,8 @@ def train(input_tensor, target_tensor, encoder, decoder, encoder_optimizer, deco
 
     decoder_input = torch.tensor([[SOS_token]], device=device)
 
-    decoder_hidden = encoder_hidden
-
+    decoder_hidden = (encoder_hidden[0][-encoder.num_layers:], encoder_hidden[1][-encoder.num_layers:])#only take first two layers (no bidirection in decoder). Need cell and hidden, so give a tuple.
+    #print("encoder_hidden[0].shape ", encoder_hidden[0].shape)
     use_teacher_forcing = True if random.random() < teacher_forcing_ratio else False
 
     if use_teacher_forcing:
@@ -268,40 +275,39 @@ def showPlot(points):
     ax.yaxis.set_major_locator(loc)
     plt.plot(points)
 
-def trainIters(encoder, decoder, n_iters, pairs, print_every=1000, plot_every=100, learning_rate=0.01):
+def trainIters(encoder, decoder, n_epochs, pairs, learning_rate=0.01):
     start = time.time()
     plot_losses = []
-    print_loss_total = 0  # Reset every print_every
-    plot_loss_total = 0  # Reset every plot_every
+    print_loss_epoch = 0  # Reset every print_every
+    plot_loss_epoch = 0  # Reset every plot_every
 
     encoder_optimizer = optim.SGD(encoder.parameters(), lr=learning_rate)
     decoder_optimizer = optim.SGD(decoder.parameters(), lr=learning_rate)
-    training_pairs = [tensorsFromPair(random.choice(pairs))
-                      for i in range(n_iters)]
-    criterion = nn.NLLLoss()
+    #training_pairs = [tensorsFromPair(random.choice(pairs))
+    #                  for i in range(len(pairs)]
+    training_pairs = list(map(tensorsFromPair, pairs))
+    #criterion = nn.NLLLoss()
+    criterion = nn.functional.cross_entropy
 
-    for iter in range(1, n_iters + 1):
-        training_pair = training_pairs[iter - 1]
-        input_tensor = training_pair[0]
-        target_tensor = training_pair[1]
-        #print("input tensor shape", input_tensor.shape)
-        #print("target tensor shape", target_tensor.shape)
+    #print("training pairs len", len(training_pairs))
+    for iter in range(n_epochs):
+        for i in tqdm(range(len(training_pairs))):
+            training_pair = training_pairs[i]
+            input_tensor = training_pair[0]
+            target_tensor = training_pair[1]
+            #print("input tensor shape", input_tensor.shape)
+            #print("target tensor shape", target_tensor.shape)
 
-        loss = train(input_tensor, target_tensor, encoder,
-                     decoder, encoder_optimizer, decoder_optimizer, criterion)
-        print_loss_total += loss
-        plot_loss_total += loss
+            loss = train(input_tensor, target_tensor, encoder,
+                         decoder, encoder_optimizer, decoder_optimizer, criterion)
+            print_loss_epoch += loss
+            plot_loss_epoch += loss
 
-        if iter % print_every == 0:
-            print_loss_avg = print_loss_total / print_every
-            print_loss_total = 0
-            print('%s (%d %d%%) %.4f' % (timeSince(start, iter / n_iters),
-                                         iter, iter / n_iters * 100, print_loss_avg))
+        print("epoch loss", print_loss_epoch)
+        print_loss_epoch = 0
 
-        if iter % plot_every == 0:
-            plot_loss_avg = plot_loss_total / plot_every
-            plot_losses.append(plot_loss_avg)
-            plot_loss_total = 0
+        plot_losses.append(plot_loss_epoch)
+        plot_loss_epoch = 0
 
     showPlot(plot_losses)
 
@@ -320,12 +326,12 @@ def evaluate(encoder, decoder, sentence, max_length=MAX_LENGTH):
 
     decoder_input = torch.tensor([[SOS_token]], device=device)  # SOS
 
-    decoder_hidden = encoder_hidden
+    decoder_hidden = (encoder_hidden[0][-encoder.num_layers:], encoder_hidden[1][-encoder.num_layers:])#only take first two layers (no bidirection in decoder). Need cell and hidden, so give a tuple.
 
     decoded_words = []
     decoder_attentions = torch.zeros(max_length, max_length)
 
-    for di in range(max_length):
+    for di in range(max_length-1):#Hacky workaround TODO
         decoder_output, decoder_hidden, decoder_attention = decoder(
                 decoder_input, decoder_hidden, encoder_outputs)
         decoder_attentions[di] = decoder_attention.data
@@ -340,7 +346,7 @@ def evaluate(encoder, decoder, sentence, max_length=MAX_LENGTH):
 
     return decoded_words, decoder_attentions[:di + 1]
 
-def evaluateRandomly(encoder, decoder, n=10):
+def evaluateRandomly(encoder, decoder, pairs,  n=10):
     for i in range(n):
         pair = random.choice(pairs)
         print('>', pair[0])
@@ -378,30 +384,42 @@ def evaluateAndShowAttention(input_sentence):
 
 plt.switch_backend('agg')
 
-input_lang, output_lang, pairs = prepareData()
-print(random.choice(pairs))
+input_lang, output_lang, train_pairs = prepareData("data/training-dfs-linear_targ.txt", "data/training-dfs-linear_src.txt")
+#print(random.choice(pairs))
 
 num_layers = 2
 hidden_size = 256
 encoder1 = EncoderRNN(input_lang.n_words, hidden_size, num_layers).to(device)
 attn_decoder1 = AttnDecoderRNN(hidden_size, output_lang.n_words, num_layers, dropout_p=0.1).to(device)
 
-trainIters(encoder1, attn_decoder1, 75000, pairs, print_every=1000)
+trainIters(encoder1, attn_decoder1, 10, train_pairs)
 
 torch.save(encoder1, "saved_models/encoder1.pt")
 torch.save(attn_decoder1, "saved_models/attn_decoder1.pt")
 
-#self_train_iter = 3
-#self_train_sample = 3
-#
-#for i in range(self_train_iter):
-#    f3 = open("data/gigaword.txt.anonymized","r", encoding='ascii')
-#    giga_lines = list(f3.readlines())[:self_train_sample*10**i]
-#    f3.close()
-#    pairs = prepareSelfTrainData(encoder1, attn_decoder1, giga_lines)
-#    print(len(pairs), pairs[0])
-#
-#
-#evaluateRandomly(encoder1, attn_decoder1)
-#
+self_train_iter = 3
+self_train_sample = 3
+
+f3 = open("data/gigaword_sample/gigaword.txt.anonymized","r", encoding='ascii')
+giga_lines = list(f3.readlines())
+f3.close()
+for i in range(self_train_iter):
+    print("self_train_iter", i)
+    self_train_pairs = [x for x in giga_lines if len(x.split(' ')) < MAX_LENGTH][:self_train_sample*10**i] 
+    #print(len(self_train_pairs))
+    #print([len(x.split(' ')) for x in giga_lines])
+    self_train_pairs = prepareSelfTrainData(encoder1, attn_decoder1, self_train_pairs)
+    print("self training on ", len(self_train_pairs),  " pairs")
+    trainIters(encoder1, attn_decoder1, 5, self_train_pairs)
+    print("fine tuning on ", len(train_pairs),  " pairs")
+    trainIters(encoder1, attn_decoder1, 5, train_pairs)
+    torch.save(encoder1, "saved_models/encoder1.pt")
+    torch.save(attn_decoder1, "saved_models/attn_decoder1.pt")
+
+print("evaluate on train pairs")
+evaluateRandomly(encoder1, attn_decoder1, train_pairs)
+
+#print("evaluate on self train pairs")
+#evaluateRandomly(encoder1, attn_decoder1, self_train_pairs)
+
 #evaluateAndShowAttention("it is an order .")

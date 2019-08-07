@@ -32,6 +32,12 @@ EOS_token = 1
 UNK_token = 2
 MAX_LENGTH = 180
 
+dev_file = "data/little-prince/dev-dfs-linear_targ.txt"
+dev_predict = "model_out/dev-predict.txt"
+
+train_x_file = "data/little-prince/training-dfs-linear_targ.txt"
+train_y_file = "data/little-prince/training-dfs-linear_src.txt"
+
 class Lang:
     def __init__(self, name):
         self.name = name
@@ -65,9 +71,9 @@ def prepareData(src_path, targ_path):
     output_lang = Lang("amr")
     pairs = []
 
-    sen_lines = open('data/ldc/training-dfs-linear_targ.txt', encoding='utf-8').\
+    sen_lines = open(src_path, encoding='utf-8').\
         read().strip().split('\n')
-    amr_lines = open('data/ldc/training-dfs-linear_src.txt', encoding='ascii').\
+    amr_lines = open(targ_path, encoding='ascii').\
         read().strip().split('\n')
     #giga_lines = open('data/gigaword.txt.anonymized', encoding='ascii').\
     #    read().strip().split('\n')
@@ -329,8 +335,8 @@ def trainEpochs(encoder, decoder, n_epochs, pairs, input_lang, output_lang, iter
                     
             if iter_count%1000 == 0:
                 print(iter_count)
-                evaluateFile("data/ldc/dev-dfs-linear_targ.txt", "model_out/dev-predict.txt", encoder1, attn_decoder1, input_lang, output_lang)
-                smatch_epoch = smatch.smatch_score("data/ldc/gold_inflated.txt", "model_out/dev-predict.txt")
+                evaluateFile(dev_file, dev_predict, encoder1, attn_decoder1, input_lang, output_lang)
+                smatch_epoch = smatch.smatch_score("data/little-prince/gold_inflated.txt", "model_out/dev-predict.txt")
                 print("smatch ", smatch_epoch)
                 writer.add_scalar('data/dev smatch', smatch_epoch, iter_count)
             if iter_count%100 == 0:
@@ -458,7 +464,7 @@ def writeModels(num_layers, hidden_size, input_lang, output_lang, writer):
     #
 
 plt.switch_backend('agg')
-input_lang, output_lang, train_pairs = prepareData("data/ldc/training-dfs-linear_targ.txt", "data/ldc/training-dfs-linear_src.txt")
+input_lang, output_lang, train_pairs = prepareData(train_x_file, train_y_file)
 num_layers = 2
 hidden_size = 256
 
@@ -490,9 +496,9 @@ for i in range(self_train_iter):
     short_lines = [x for x in giga_lines if len(x.split(' ')) < MAX_LENGTH][:self_train_sample*10**i] 
     #print(len(self_train_pairs))
     #print([len(x.split(' ')) for x in giga_lines])
-    self_train_pairs = prepareSelfTrainData(encoder1, attn_decoder1, short_lines, input_lang, output_lang)
-    print("self training on ", len(self_train_pairs),  " pairs")
-    iter_count = trainEpochs(encoder1, attn_decoder1, 5, self_train_pairs, input_lang, output_lang, iter_count, loss_scalar)
+    #self_train_pairs = prepareSelfTrainData(encoder1, attn_decoder1, short_lines, input_lang, output_lang)
+    #print("self training on ", len(self_train_pairs),  " pairs")
+    #iter_count = trainEpochs(encoder1, attn_decoder1, 5, self_train_pairs, input_lang, output_lang, iter_count, loss_scalar)
     print("fine tuning on ", len(train_pairs),  " pairs")
     iter_count = trainEpochs(encoder1, attn_decoder1, 5, train_pairs, input_lang, output_lang, iter_count, loss_scalar)
     torch.save(encoder1, "saved_models/encoder1.pt")
